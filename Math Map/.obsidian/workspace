@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Point Set Topology.md",
+            "file": "Set Theory/Elements and Membership 1.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Point Set Topology.md",
+                "file": "Set Theory/Elements and Membership 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Set Theory/Elements and Membership 1.md",
+    "Set Theory/Empty Sets.md",
+    "Set Theory/Introduction to Set Theory.md",
+    "Logic/Introduction to Logic.md",
     "Point Set Topology.md",
     "Logic.md",
     "Set Theory/Limitations of the Physical Analogy.md",
-    "Set Theory/Introduction to Set Theory.md",
     "Set Theory/Finite Cardinality.md",
-    "Set Theory/Empty Sets.md",
     "Set Theory/Elements and Membership 2.md",
-    "Set Theory/Elements and Membership 1.md",
-    "Logic/Truth Values.md",
-    "Logic/Representing Propositions Symbolically.md"
+    "Logic/Truth Values.md"
   ]
 }

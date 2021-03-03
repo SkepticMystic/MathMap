@@ -17,4 +17,6 @@ Another way that we can write this using our curly braces notation is like so: $
 
 This would be read as "S contains x".
 
+Note that any set with exactly one object - no more, no less - is sometimes called a **singleton**.
+
 Next: [[Elements and Membership 2]]
