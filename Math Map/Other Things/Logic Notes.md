@@ -45,3 +45,9 @@ Are fractions countable?
 Are decimals countable?
 
 partitions are like organizing sets
+
+![[Pasted image 20210303133616.png]]
+
+Make truth tables to clearly see when the propositions are true/false.
+
+tautology: statement which is true no matter the value of the components

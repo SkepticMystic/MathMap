@@ -46,4 +46,4 @@ Valid propositions have the following properties:
 - Cannot be a command nor a question.
 - Must be either true or false.
 
-Next: [[Representing Propositions Symbolically]]
+Next: [[Propositional Variables]]

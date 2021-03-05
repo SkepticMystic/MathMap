@@ -4,15 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b9f495a87843f0d2",
+        "id": "6b81d6297686072a",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Set Theory/Elements and Membership 1.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set Theory/Elements and Membership 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +92,15 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "Set Theory/Elements and Membership 1.md",
     "Set Theory/Empty Sets.md",
-    "Set Theory/Introduction to Set Theory.md",
-    "Logic/Introduction to Logic.md",
-    "Point Set Topology.md",
-    "Logic.md",
-    "Set Theory/Limitations of the Physical Analogy.md",
-    "Set Theory/Finite Cardinality.md",
-    "Set Theory/Elements and Membership 2.md",
-    "Logic/Truth Values.md"
+    "Singletons.md",
+    "Heart of Mathematics/Introduction to Mathematics.md",
+    "Things to Add.md",
+    "Heart of Mathematics/Untitled.md",
+    "Set Theory/Membership Rules.md",
+    "Set Theory/Curly Brace Notation.md",
+    "Membership Rules.md",
+    "Set Theory/Cardinality.md",
+    "Set Theory/Limitations of the Physical Analogy.md"
   ]
 }

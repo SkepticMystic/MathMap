@@ -1,6 +1,6 @@
 #logic 
-# Representing Propositions Symbolically
-It is often useful to represent propositions using symbols. We usually use uppercase English letters or lowercase Greek letters. For example, we can assert that $P$ represents the proposition "Dori's birthday is on April twentieth".
+# Propositional Variables
+It is often useful to represent propositions using symbols. We call these symbols **propositional variables**. We usually use uppercase English letters or lowercase Greek letters. For example, we can assert that $P$ represents the proposition "Dori's birthday is on April twentieth".
 
 Some more examples:
 - $Q$ could represent the proposition "Marge is in a playground."
