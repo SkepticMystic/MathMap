@@ -4,12 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6b81d6297686072a",
+        "id": "1fd0b33dd4154c63",
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Set Theory/Introduction to Set Theory.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Set Theory/Introduction to Set Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,6 +96,8 @@
     "width": 300
   },
   "lastOpenFiles": [
+    "Set Theory/Introduction to Set Theory.md",
+    "Set Theory/'In' vs 'Contains' Notation.md",
     "Set Theory/Empty Sets.md",
     "Singletons.md",
     "Heart of Mathematics/Introduction to Mathematics.md",
@@ -99,8 +105,6 @@
     "Heart of Mathematics/Untitled.md",
     "Set Theory/Membership Rules.md",
     "Set Theory/Curly Brace Notation.md",
-    "Membership Rules.md",
-    "Set Theory/Cardinality.md",
-    "Set Theory/Limitations of the Physical Analogy.md"
+    "Membership Rules.md"
   ]
 }
