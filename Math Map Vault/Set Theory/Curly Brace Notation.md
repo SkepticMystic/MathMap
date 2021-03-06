@@ -6,7 +6,14 @@ or $$A \ni m, n$$
 
 But there is another way: $$A = \{m, n\}$$
 
-We simply write the elements that the set contains as a comma-separated list between the curly braces.
+We simply write the elements that the set contains as a comma-separated list between the curly braces. As a reminder, remember that the lowercase letters stand for elements, while the uppercase $A$ is the set which groups the elements.
+
+Note that whereas the $\in$ and $\ni$ notations are not exclusionary, **the curly brace notation is exclusionary**. What this means is that if you see $$x \in S$$
+or $$S \ni x$$
+
+that does not mean that $x$ is the only element in $S$. There could be other elements in $S$ we haven't talked about. However, if I write $$S = \{x\}$$
+
+then that means that $x$ is the only element in $S$.
 
 As another example, let's take the set $Z$ which we want to contain elements $u$, $v$, $w$, $x$, $y$, $a$, $b$, and $k$. So far, we've learned three ways to write it:
 
@@ -14,6 +21,10 @@ As another example, let's take the set $Z$ which we want to contain elements $u$
 - $Z \ni u, v, w, x, y, a, b, k$
 - $Z = \{u, v, w, x, y, a, b, k\}$
 
-Remember that the lowercase letters stand for elements, while the uppercase $Z$ is the set which contains the elements. In our analogy, the elements are objects we put in the box we've labeled $Z$.
+We could also put a verbal description of the set within the curly braces. Some examples:
+- $D$ = \{days in the week\}
+- $M$ = \{months in the year\}
+- $P$ = \{US Presidents\}
+- $F$ = \{members of my family}
 
 Next: [[Membership Rules]]

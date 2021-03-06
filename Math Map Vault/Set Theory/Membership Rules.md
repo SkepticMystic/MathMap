@@ -14,4 +14,4 @@ There are two *very* important rules to remember when dealing with sets:
 		
 	are identical from a set theory perspective, because the three elements in them are the same for each.
 
-Next: [[Limitations of the Physical Analogy]]
+Next: [[Euler Diagrams]], [[Cardinality]]
