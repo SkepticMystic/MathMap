@@ -4,12 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "576d56e505d14b60",
+        "id": "58d035557282c483",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Set Theory/Introduction to Set Theory.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "b4bda881cdc48848",
         "type": "leaf",
         "active": true,
+        "pinned": true,
         "state": {
           "type": "graph",
-          "state": {}
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -50,7 +63,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25bfce8f8fa76dd9",
@@ -89,18 +103,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "Set Theory/Subsets and Supersets.md",
+    "Set Theory/Notating Sets and Elements.md",
+    "Set Theory/Proper Subsets and Proper Supersets.md",
     "Set Theory/Set Equality.md",
+    "Subsets and Supersets.md",
+    "Other Things/Things to Add.md",
+    "Set Theory/The Empty Set.md",
+    "Set Theory/Singletons.md",
+    "Set Theory/Euler Diagrams.md",
     "Set Theory/Relating Sets.md",
-    "Set Theory/Cardinality.md",
-    "Set Theory/Membership Rules.md",
-    "Set Theory/Curly Brace Notation.md",
-    "Set Theory/Elements and Membership 2.md",
-    "Set Theory/Elements and Membership 1.md",
-    "Set Theory/'In' vs 'Contains' Notation.md",
-    "Set Theory/Proper Subsets and Proper Supersets.md"
+    "Set Theory/Subsets and Supersets.md"
   ]
 }

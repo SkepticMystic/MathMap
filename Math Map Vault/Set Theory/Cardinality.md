@@ -1,6 +1,7 @@
 #set_theory 
 # Cardinality
-Now that we understand that sets are collections of elements, it might make sense to define some notion of the "size" of a set. **Cardinality** refers to the number of items contained in a set.
+---
+Now that we understand that sets are collections of elements, it might make sense to define some notion of the "size" of a set. **Cardinality** refers to the number of elements in a set.
 
 Examples:
 
@@ -21,5 +22,7 @@ As a last example, the cardinality of the four example sets from above would be 
 - $|B| = 2$
 
 In the future, we will talk about sets with infinite cardinality, but for now, we will only deal with sets with a cardinality equal to a whole number: 1, 2, 3, etc. 
+
+---
 
 Next: [[Singletons]], [[The Empty Set]], [[Relating Sets]]
