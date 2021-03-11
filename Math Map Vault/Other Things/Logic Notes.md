@@ -55,4 +55,8 @@ Make truth tables to clearly see when the propositions are true/false.
 
 tautology: statement which is true no matter the value of the components
 
+==Which symbol should we use to indicate tautologies or contradictions?==
+
+$\top$ and $\bot$?
+
 [[Midterm Review]]

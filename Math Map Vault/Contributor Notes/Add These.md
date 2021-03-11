@@ -1,5 +1,5 @@
 ---
-date updated: '2021-03-11T13:11:34+02:00'
+date updated: '2021-03-11T14:02:31+02:00'
 
 ---
 
@@ -31,14 +31,15 @@ Multiply/Divide Decimals
 Additive/Multiplicative Identity
 Additive/Multiplicative Inverses
 
-## ndamentals
+## Fundamentals 2:
 
 Ratios
 Equivalent Ratios
 Rates
 Percentages
 Percents/Decimals/Fractions/Ratios Conversion
-Negative Integers/Decimals/Fractions
+Negative Integers/Decimals/Fractions:
+
 - Negative Symbol (Opposite)
 - Absolute Value
 - Ordering Integers
@@ -46,6 +47,7 @@ Negative Integers/Decimals/Fractions
 - Ordering Negatives
 - Adding/Subtracting Negatives
 - Multiplying/Dividing Negatives
+
 Exponentiation
 Prime Factorization
 LCM/GCD
@@ -53,31 +55,41 @@ Negative Exponentiation
 Rounding
 Significant Figures
 Scientific Notation
-Operations
+Operations:
+
 - Modulo
 - [[Factorial]]
 - Roots
 - Logical
+
 Fractional Exponentiation
-Sequences
+Sequences:
+
 - Arithmetic
 - Geometric
 
-## t Theory:
+## Theory:
 
 s/Elements/Cardinality
 -Empty Set/Singleton
 Nested Sets
-Subsets/Supersets
+Subsets/Supersets:
+
 - Proper Subset/Proper Superset
 - Set Equality
 - Families of Sets
-Sequences
+
+Sequences:
+
 - Ordered Pairs/Triplets
-Combinatorics
+
+Combinatorics:
+
 - Permutations
 - Combinations
-Set Operations
+
+Set Operations:
+
 - Union
 - Intersection
 - Set Difference
@@ -85,18 +97,24 @@ Set Operations
 - Cartesian Product
 - Power Set
 - Complement
-Partitions
+
+Partitions:
+
 - Equivalence Relations
 - Equivalence Classes
+
 Set-Builder Notation
 
-## ementary Abra:
+## Elementary Algebra:
 
-Numeric Expressions
+Numeric Expressions:
+
 - Operator Precedence
 - Terms
 - Commutative, Associative, Distributive Properties
-Variable Expressions
+
+Variable Expressions:
+
 - Variables
 - Coefficients
 - 1 Variable Integer Evaluation
@@ -108,47 +126,64 @@ Variable Expressions
 - Writing Expressions
 - Complex Fractions
 - Equivalent Expressions
-Equations in 1 Variable
+
+Equations in 1 Variable:
+
 - Meaning
 - One Step
 - Two Steps
-Inequalities in 1 Variable
+
+Inequalities in 1 Variable:
+
 - Meaning
 - One Step
 - Two Steps
+
 Multistep Equations and Inequalities in 1 Variable
 Linear Equations with Unknown Coefficients
-Equations in 2 Variables
+Equations in 2 Variables:
+
 - Meaning
 - Manipulation
 - Solutions
+
 Tables
-Functions
+Functions:
+
 - Domain
 - Codomain
 - Image
-Sequences
+
+Sequences:
+
 - Arithmetic
 - Geometric
-Polynomials Intro
+
+Polynomials Intro:
+
 - Terms
 - Degree
-Quadratic Equations
+
+Quadratic Equations:
+
 - Standard Form
 - Distributing
 - Special Products of Binomials
 - Factoring
 - Solving
+
 Explicit/Implicit/Recursive Relationships
-Complex Numbers
+Complex Numbers:
+
 - Imaginary Unit
 - Complex Plane
 - Absolute Value
 - Arithmetic
+
 Logarithms Intro
 Exponent/Logarithm Rules
 
-## re EuclidiGeometry:
+## re Euclidian Geometry:
 
 Points
 Lines
@@ -157,13 +192,18 @@ Volumes
 Line Segments
 Rays
 Intersecting Lines/Vertices
-Angles
+Angles:
+
 - Acute, Right, Obtuse
 - Complementary, Supplementary, Vertical
+
 Parallel/Perpendicular Lines
-Parallel Transversals
+Parallel Transversals:
+
 - Vertices/Edges/Interior/Exterior
-Polygons
+
+Polygons:
+
 - Simple/Self-Intersecting
 - Convex/Concave
 - Equilateral/Equiangular
@@ -171,31 +211,40 @@ Polygons
 - Cyclic/Inscribed
 - Zonogon
 - Area/Perimeter
-Triangles - angles sum to 180
+
+Triangles - angles sum to 180:
+
 - Equilateral, Isosceles, Scalene
 - Acute, Right, Obtuse
-Quadrilaterals - angles sum to 360
+
+Quadrilaterals - angles sum to 360:
+
 - Parallelograms
 - Kites
 - Rectangles
 - Squares
 - Rhombi
+
 Pentagons - angles sum to 540
 Hexagons - angles sum to 720
 Polygon Angle Sum Rule
-Transformations
+Transformations:
+
 - Translation
 - Rotation
 - Reflection
 - Dilation
+
 Congruency/Similarity
 Tessellation
 Locus
-Conic Sections
+Conic Sections:
+
 - Circle
 - Ellipse
 - Parabola
 - Hyperbola
+
 Radius, Diameter, Circumference
 Sector/Arc
 Concentric Circles/Annulus
@@ -203,12 +252,14 @@ Compound 2D Shapes
 Intersecting Planes
 3D Polytopes
 Surface Area/Volume
-Platonic Solids
+Platonic Solids:
+
 - Tetrahedron
 - Cube
 - Octahedron
 - Dodecahedron
 - Icosahedron
+
 Triangular/Square Pyramids
 Triangular/Rectangular Prisms
 Cone
@@ -217,40 +268,51 @@ Sphere
 Torus
 Möbius Strip
 
-## ordinate Getry:
+## Coordinate Geometry:
 
-Relative Coordinates
+Relative Coordinates:
+
 - Origin
 - Quadrants
 - Rectangular Cordinates
 - Polar Coordinates
-Lines
-- Distance Formula
-- Slope
+
+Lines:
+
+- [[Euclidian Distance]] Formula
+- [[Slope]]
 - Intercepts
+
 Interval Notation
 
-## ordinate Abra:
+## Coordinate Algebra:
 
 Horizontal/Vertical Lines
-Linear Equations
+Linear Equations:
+
 - Sets of Ordered Pairs
 - Slope-Intercept Form
 - Point-Slope Form
 - Piecewise Functions
-Linear Inequalities
+
+Linear Inequalities:
+
 - Sets of Ordered Pairs
 - Slope-Intercept Form
 - Point-Slope Form
 - Standard Form
-Linear Systems of Equations
+
+Linear Systems of Equations:
+
 - Intersection of Two Sets
 - Graphical Interpretation
 - Number of Solutions
 - Substitution
 - Elimination
+
 Compound Inequalities
-Functions
+Functions:
+
 - Domain
 - Codomain
 - Image
@@ -259,15 +321,19 @@ Functions
 - Positive/Negative
 - Even/Odd
 - Arithmetic
--Composition
-Quadratics
+- Composition
+
+Quadratics:
+
 - Standard Form
 - Vertex Formula
 - Discriminant
 - Factored Form
 - Vertex Form
 - Quadratic Formula
-Polynomials
+
+Polynomials:
+
 - Distribution
 - Factoring
 - End Behavior
@@ -275,9 +341,10 @@ Polynomials
 - Arithmetic
 - Synthetic Division
 - Binomial Expansion
+
 Exponential Functions
 Logarithmic Functions
-Function Transformations
+Function Transformations:
 
 - Translation
 - Reflection
@@ -299,17 +366,17 @@ sets of numbers:
 - [[Integers]],
 - [[Rationals]],
 - [[Irrationals]],
-- transcendentals,
+- Transcendentals,
 - [[Real Numbers]],
-- complex numbers,
-- constructable numbers, etc
+- Complex numbers,
+- Constructable numbers, etc
 
 Logistic Growth
 Exponential Growth
 Logarithmic Growth
 
 Connect sets to logic
-Connect logic to sets (use logic to show how proof by contradiction works, for example, and then connect that to subsets and supersets to prove that for any set $S$ the null set is a subset)
+Connect logic to sets (use logic to show how [[Proof by Contradiction]] works, for example, and then connect that to subsets and supersets to prove that for any set $S$ the null set is a subset)
 Propositions are closed under logical operations
 data representation such as tables
 

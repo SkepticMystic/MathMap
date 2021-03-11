@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Factorial.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -80,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "60e9e210ac8bd7a8",
@@ -96,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Factorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Factorial.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -123,15 +118,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Factorial.md",
-    "Math Map Vault/Contributor Notes/Add These.md",
-    "real numbers.md",
-    "irrationals.md",
-    "rationals.md",
-    "natural numbers.md",
-    "integers.md",
+    "Math Map Vault/Set Theory/Subsets and Supersets.md",
+    "Proof by Contradiction.md",
+    "Math Map Vault/Set Theory/The Empty Set.md",
     "Math Map Vault/Other Things/Logic Notes.md",
-    "Math Map Vault/Other Things/CONTRIBUTOR HUB.md",
-    "Math Map Vault/Logic/Truth Values.md"
+    "proof by contradiction.md",
+    "Math Map Vault/Contributor Notes/Add These.md",
+    "Slope.md",
+    "Euclidian Distance.md",
+    "Math Map Vault/Number Systems/Factorial.md",
+    "Factorial.md"
   ]
 }
