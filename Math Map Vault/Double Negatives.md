@@ -1,4 +1,4 @@
-#logic 
+#ignore_this 
 # Double Negatives
 ---
 What happens if we negate a proposition which already has a "not" in it? For example, suppose that proposition $R$ says "I am not happy." Following our rules from before, $\neg R$ would be "I am not not happy." This is known as a **double negative**.

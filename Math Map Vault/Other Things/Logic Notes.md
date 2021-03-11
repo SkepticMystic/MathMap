@@ -1,3 +1,6 @@
+#ignore_this 
+# Logic Notes
+---
 Definition:
 Precise description of the meaning of a word/term/phrase.
 

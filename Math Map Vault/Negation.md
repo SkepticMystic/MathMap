@@ -1,4 +1,4 @@
-#logic 
+#ignore_this 
 # Negation
 ---
 The **negation** (sometimes called the **logical complement**) of a proposition is a different proposition which always has the opposite truth value.

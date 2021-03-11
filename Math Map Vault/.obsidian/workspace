@@ -6,6 +6,7 @@
       {
         "id": "b4bda881cdc48848",
         "type": "leaf",
+        "active": true,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -16,12 +17,11 @@
       {
         "id": "f9dad1c215b82849",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "Set Theory/Introduction to Set Theory.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -80,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set Theory/Introduction to Set Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Set Theory/Introduction to Set Theory.md",
-    "Ignore this nonsense/Counting to 10.md",
-    "Set Theory/Proper Subsets and Proper Supersets.md",
-    "Set Theory/Set Equality.md",
-    "Subsets and Supersets.md",
-    "Set Theory/Cardinality.md",
-    "Logical Connectives.md",
     "Truth Tables.md",
-    "Logic/Propositional Variables.md",
-    "Other Things/Things to Add.md"
+    "Sample Note.md",
+    "Other Things/CONTRIBUTOR HUB.md",
+    "Double Negatives.md",
+    "Negation.md",
+    "Other Things/Logic Notes.md",
+    "Midterm Review.md",
+    "Unfinished Notes.md",
+    "Sample Curriculum.md",
+    "Add This.md"
   ]
 }

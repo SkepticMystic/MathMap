@@ -1,3 +1,6 @@
+#ignore_this 
+# Midterm Review
+---
 **1.** Prove the following by induction:
 Show that $n^2 \lt 3^{n+1}$:
 - $P(1)$ is true: $1 \lt 3^2 = 9$
