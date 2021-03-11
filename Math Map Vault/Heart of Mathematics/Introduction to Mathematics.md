@@ -1,6 +1,9 @@
 #heart_of_mathematics
+
 # Introduction to Mathematics
+
 ---
+
 Different people have vastly differing perceptions of mathematics. It's a source of interesting puzzles and patterns for some, and a disorganized mess of numbers and symbols for others. Some people see it as a tool for analyzing trends, managing sums of money, or modeling scientific phenomena, while yet others see it as an art and a thing of beauty - a network of logical threads which weave together to create humankind's most extensive sculpture.
 
 My personal opinion is that mathematics is the study of precisely-definted abstract objects: things like numbers, shapes, functions, vectors, etc. These abstract objects might be interesting in their own right, or they might turn out to have useful real-life applications in fields as varied as genetics, computation, economics, and condensed-matter physics. And it often turns out that the mathematical innovations of a few decades ago which originally seemed useless come to be the foundations of wild, newly established fields of science.
@@ -17,4 +20,4 @@ Regardless of your past experience with mathematics, I hope that this mathematic
 
 ---
 
-[[Mathematical Objects]]
+Next: [[Mathematical Objects]]

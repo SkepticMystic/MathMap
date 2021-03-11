@@ -1,4 +1,4 @@
-#logic 
+#propositional_logic 
 
 # Truth Tables
 

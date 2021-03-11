@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vision Statement.md",
+            "file": "Logic/Disjunction.md",
             "mode": "preview"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#logic",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vision Statement.md",
+                "file": "Logic/Disjunction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Vision Statement.md",
-    "Mission Statement.md",
-    "Other Things/CONTRIBUTOR HUB.md",
-    "Contributor Notes/Sample Note.md",
-    "Contributor Notes/Sample Curriculum.md",
     "Logic/Disjunction.md",
-    "Contributor Notes/Incomplete Notes.md",
-    "Heart of Mathematics/Introduction to Mathematics.md",
-    "Set Theory/Proper Subsets and Proper Supersets.md",
-    "Set Theory/Set Equality.md"
+    "Conjunction.md",
+    "Biconditional.md",
+    "Conditional.md",
+    "Logic/Logical Connectives.md",
+    "Logic/Truth Tables.md",
+    "Logic/Propositional Variables.md",
+    "Logic/Propositions.md",
+    "Logic/Introduction to Propositional Logic.md",
+    "Logic/Truth Values.md"
   ]
 }

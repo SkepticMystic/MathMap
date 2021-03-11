@@ -1,4 +1,4 @@
-#logic 
+#propositional_logic 
 
 # Introduction to Propositional Logic
 
