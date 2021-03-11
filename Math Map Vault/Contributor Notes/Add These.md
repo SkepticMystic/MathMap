@@ -1,16 +1,7 @@
----
-date updated: '2021-03-11T13:11:34+02:00'
-
----
-
-#meta_map
-
+#meta_map 
 # Add These
-
 ---
-
-## Fundamentals 1:
-
+Fundamentals 1:
 Counting
 Place Value (1s, 10s, and 100s)
 Addition/Subtraction within 1000
@@ -31,21 +22,22 @@ Multiply/Divide Decimals
 Additive/Multiplicative Identity
 Additive/Multiplicative Inverses
 
-## ndamentals
 
+
+Fundamentals 2:
 Ratios
 Equivalent Ratios
 Rates
 Percentages
 Percents/Decimals/Fractions/Ratios Conversion
 Negative Integers/Decimals/Fractions
-- Negative Symbol (Opposite)
-- Absolute Value
-- Ordering Integers
-- Negative Fractions/Decimals
-- Ordering Negatives
-- Adding/Subtracting Negatives
-- Multiplying/Dividing Negatives
+-Negative Symbol (Opposite)
+-Absolute Value
+-Ordering Integers
+-Negative Fractions/Decimals
+-Ordering Negatives
+-Adding/Subtracting Negatives
+-Multiplying/Dividing Negatives
 Exponentiation
 Prime Factorization
 LCM/GCD
@@ -54,102 +46,105 @@ Rounding
 Significant Figures
 Scientific Notation
 Operations
-- Modulo
-- [[Factorial]]
-- Roots
-- Logical
+-Modulo
+-Factorial
+-Roots
+-Logical
 Fractional Exponentiation
 Sequences
-- Arithmetic
-- Geometric
+-Arithmetic
+-Geometric
 
-## t Theory:
 
-s/Elements/Cardinality
+
+Set Theory:
+Sets/Elements/Cardinality
 -Empty Set/Singleton
 Nested Sets
 Subsets/Supersets
-- Proper Subset/Proper Superset
-- Set Equality
-- Families of Sets
+-Proper Subset/Proper Superset
+-Set Equality
+-Families of Sets
 Sequences
-- Ordered Pairs/Triplets
+-Ordered Pairs/Triplets
 Combinatorics
-- Permutations
-- Combinations
+-Permutations
+-Combinations
 Set Operations
-- Union
-- Intersection
-- Set Difference
-- Symmetric Difference
-- Cartesian Product
-- Power Set
-- Complement
+-Union
+-Intersection
+-Set Difference
+-Symmetric Difference
+-Cartesian Product
+-Power Set
+-Complement
 Partitions
-- Equivalence Relations
-- Equivalence Classes
+-Equivalence Relations
+-Equivalence Classes
 Set-Builder Notation
 
-## ementary Abra:
 
+
+Elementary Algebra:
 Numeric Expressions
-- Operator Precedence
-- Terms
-- Commutative, Associative, Distributive Properties
+-Operator Precedence
+-Terms
+-Commutative, Associative, Distributive Properties
 Variable Expressions
-- Variables
-- Coefficients
-- 1 Variable Integer Evaluation
-- 2 Variable Integer Evaluation
-- 1 Variable Rational Evaluation
-- 2 Variable Rational Evaluation
-- Combining Like Terms
-- Commutative, Associative, Distributive Properties
-- Writing Expressions
-- Complex Fractions
-- Equivalent Expressions
+-Variables
+-Coefficients
+-1 Variable Integer Evaluation
+-2 Variable Integer Evaluation
+-1 Variable Rational Evaluation
+-2 Variable Rational Evaluation
+-Combining Like Terms
+-Commutative, Associative, Distributive Properties
+-Writing Expressions
+-Complex Fractions
+-Equivalent Expressions
 Equations in 1 Variable
-- Meaning
-- One Step
-- Two Steps
+-Meaning
+-One Step
+-Two Steps
 Inequalities in 1 Variable
-- Meaning
-- One Step
-- Two Steps
+-Meaning
+-One Step
+-Two Steps
 Multistep Equations and Inequalities in 1 Variable
 Linear Equations with Unknown Coefficients
 Equations in 2 Variables
-- Meaning
-- Manipulation
-- Solutions
+-Meaning
+-Manipulation
+-Solutions
 Tables
 Functions
-- Domain
-- Codomain
-- Image
+-Domain
+-Codomain
+-Image
 Sequences
-- Arithmetic
-- Geometric
+-Arithmetic
+-Geometric
 Polynomials Intro
-- Terms
-- Degree
+-Terms
+-Degree
 Quadratic Equations
-- Standard Form
-- Distributing
-- Special Products of Binomials
-- Factoring
-- Solving
+-Standard Form
+-Distributing
+-Special Products of Binomials
+-Factoring
+-Solving
 Explicit/Implicit/Recursive Relationships
 Complex Numbers
-- Imaginary Unit
-- Complex Plane
-- Absolute Value
-- Arithmetic
+-Imaginary Unit
+-Complex Plane
+-Absolute Value
+-Arithmetic
 Logarithms Intro
 Exponent/Logarithm Rules
 
-## re EuclidiGeometry:
 
+
+Pure Euclidian Geometry:
 Points
 Lines
 Planes
@@ -158,44 +153,44 @@ Line Segments
 Rays
 Intersecting Lines/Vertices
 Angles
-- Acute, Right, Obtuse
-- Complementary, Supplementary, Vertical
+-Acute, Right, Obtuse
+-Complementary, Supplementary, Vertical
 Parallel/Perpendicular Lines
 Parallel Transversals
-- Vertices/Edges/Interior/Exterior
+-Vertices/Edges/Interior/Exterior
 Polygons
-- Simple/Self-Intersecting
-- Convex/Concave
-- Equilateral/Equiangular
-- Regular/Rectilinear
-- Cyclic/Inscribed
-- Zonogon
-- Area/Perimeter
+-Simple/Self-Intersecting
+-Convex/Concave
+-Equilateral/Equiangular
+-Regular/Rectilinear
+-Cyclic/Inscribed
+-Zonogon
+-Area/Perimeter
 Triangles - angles sum to 180
-- Equilateral, Isosceles, Scalene
-- Acute, Right, Obtuse
+-Equilateral, Isosceles, Scalene
+-Acute, Right, Obtuse
 Quadrilaterals - angles sum to 360
-- Parallelograms
-- Kites
-- Rectangles
-- Squares
-- Rhombi
+-Parallelograms
+-Kites
+-Rectangles
+-Squares
+-Rhombi
 Pentagons - angles sum to 540
 Hexagons - angles sum to 720
 Polygon Angle Sum Rule
 Transformations
-- Translation
-- Rotation
-- Reflection
-- Dilation
+-Translation
+-Rotation
+-Reflection
+-Dilation
 Congruency/Similarity
 Tessellation
 Locus
 Conic Sections
-- Circle
-- Ellipse
-- Parabola
-- Hyperbola
+-Circle
+-Ellipse
+-Parabola
+-Hyperbola
 Radius, Diameter, Circumference
 Sector/Arc
 Concentric Circles/Annulus
@@ -204,11 +199,11 @@ Intersecting Planes
 3D Polytopes
 Surface Area/Volume
 Platonic Solids
-- Tetrahedron
-- Cube
-- Octahedron
-- Dodecahedron
-- Icosahedron
+-Tetrahedron
+-Cube
+-Octahedron
+-Dodecahedron
+-Icosahedron
 Triangular/Square Pyramids
 Triangular/Rectangular Prisms
 Cone
@@ -217,91 +212,89 @@ Sphere
 Torus
 Möbius Strip
 
-## ordinate Getry:
 
+
+Coordinate Geometry:
 Relative Coordinates
-- Origin
-- Quadrants
-- Rectangular Cordinates
-- Polar Coordinates
+-Origin
+-Quadrants
+-Rectangular Cordinates
+-Polar Coordinates
 Lines
-- Distance Formula
-- Slope
-- Intercepts
+-Distance Formula
+-Slope
+-Intercepts
 Interval Notation
 
-## ordinate Abra:
 
+
+Coordinate Algebra:
 Horizontal/Vertical Lines
 Linear Equations
-- Sets of Ordered Pairs
-- Slope-Intercept Form
-- Point-Slope Form
-- Piecewise Functions
+-Sets of Ordered Pairs
+-Slope-Intercept Form
+-Point-Slope Form
+-Piecewise Functions
 Linear Inequalities
-- Sets of Ordered Pairs
-- Slope-Intercept Form
-- Point-Slope Form
-- Standard Form
+-Sets of Ordered Pairs
+-Slope-Intercept Form
+-Point-Slope Form
+-Standard Form
 Linear Systems of Equations
-- Intersection of Two Sets
-- Graphical Interpretation
-- Number of Solutions
-- Substitution
-- Elimination
+-Intersection of Two Sets
+-Graphical Interpretation
+-Number of Solutions
+-Substitution
+-Elimination
 Compound Inequalities
 Functions
-- Domain
-- Codomain
-- Image
-- Maxiumum/Minimum
-- Increasing/Decreasing
-- Positive/Negative
-- Even/Odd
-- Arithmetic
+-Domain
+-Codomain
+-Image
+-Maxiumum/Minimum
+-Increasing/Decreasing
+-Positive/Negative
+-Even/Odd
+-Arithmetic
 -Composition
 Quadratics
-- Standard Form
-- Vertex Formula
-- Discriminant
-- Factored Form
-- Vertex Form
-- Quadratic Formula
+-Standard Form
+-Vertex Formula
+-Discriminant
+-Factored Form
+-Vertex Form
+-Quadratic Formula
 Polynomials
-- Distribution
-- Factoring
-- End Behavior
-- Zeroes Multiplicity
-- Arithmetic
-- Synthetic Division
-- Binomial Expansion
+-Distribution
+-Factoring
+-End Behavior
+-Zeroes Multiplicity
+-Arithmetic
+-Synthetic Division
+-Binomial Expansion
 Exponential Functions
 Logarithmic Functions
 Function Transformations
-
-- Translation
-- Reflection
-- Dilation
-- Even Functions
-- Odd Functions
-
+-Translation
+-Reflection
+-Dilation
+-Even/Odd Functions
 Rational Functions
 Extraneous Solutions
 Systems of Equations
 
-## Misc Notes
 
+**Misc Notes:**
 Set Theory has to come from arithmetic or at least come after counting
 venn diagrams to the set theory segment
-sets of numbers:
-
-- [[Natural Numbers]],
-- [[Integers]],
-- [[Rationals]],
-- [[Irrationals]],
-- transcendentals,
-- [[Real Numbers]],
-- complex numbers,
+sets of numbers: 
+- [[Natural Numbers]], 
+- [[Integers]], 
+- [[Rationals]], 
+- [[Irrationals]], 
+- transcendentals, 
+- [[Real Numbers]], 
+- complex numbers, 
 - constructable numbers, etc
 
 Logistic Growth
@@ -315,6 +308,7 @@ data representation such as tables
 
 Homeomorphism - continuous deformation between topological spaces
 f is bijective, f is continuous, and the pre-image of f is continuous
+
 
 **Galois Theory Notes:**
 Allows us to determine whether there is an equation to solve a polynomial.
