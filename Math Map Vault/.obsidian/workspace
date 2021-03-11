@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contributor Notes/Sample Note.md",
+            "file": "Vision Statement.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contributor Notes/Sample Note.md",
+                "file": "Vision Statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Vision Statement.md",
+    "Mission Statement.md",
+    "Other Things/CONTRIBUTOR HUB.md",
     "Contributor Notes/Sample Note.md",
+    "Contributor Notes/Sample Curriculum.md",
+    "Logic/Disjunction.md",
     "Contributor Notes/Incomplete Notes.md",
     "Heart of Mathematics/Introduction to Mathematics.md",
     "Set Theory/Proper Subsets and Proper Supersets.md",
-    "Set Theory/Set Equality.md",
-    "Set Theory/Subsets and Supersets.md",
-    "Set Theory/Relating Sets.md",
-    "Set Theory/Singletons.md",
-    "Set Theory/The Empty Set.md",
-    "Set Theory/Euler Diagrams.md"
+    "Set Theory/Set Equality.md"
   ]
 }

@@ -5,7 +5,7 @@ Say we have two propositions: $P$ says "I am thirsty" while $Q$ says "I am tired
 
 The fundamental property of disjunction is that the overall proposition we create is only true if **both** it's components propositions are true.
 
-This operators [[truth tables|truth table]] is as follows:
+This operator's truth table is as follows:
 
 | $P$     | $Q$     | $P~\land~Q$ |
 | ------- | ------- | ----------- |

@@ -1,7 +1,18 @@
 #meta_map 
+
 # Sample Note
+
 ---
-As you can see, this **sample note** has the name of the idea/concept it's about in bold. The top line has a subject tag, the next line has the name of the idea/concept as a header (and is the same as the note name), and the third line is just a horizontal rule.
+
+As you can see, this **sample note** has the name of the idea/concept it's about in bold. The top line has a subject tag, the next line has the name of the idea/concept as a header (and is the same as the note name), and the third line is just a horizontal rule:
+
+```
+#tag
+
+# Header
+
+---
+```
 
 After this, text is broken up into paragraphs however you think is appropriate. All different paragraphs should have line breaks between them whenever possible. All math notation should be in $LaTeX$, and you can use SVG graphics or HTML tables as additional learning aids. Bulleted lists could be used in the following situations:
 
@@ -16,4 +27,4 @@ If you don't know where to put a note, put it in Unfinished notes. Try not to li
 
 ---
 
-Next: [[Incomplete Notes]]
+Next: Comma-Separated, List, of, Links
