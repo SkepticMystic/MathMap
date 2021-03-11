@@ -23,7 +23,7 @@ After this, text is broken up into paragraphs however you think is appropriate. 
 
 All notes should strive to be as atomized as possible while still being reasonably self-contained. If you've got three or four related small topics, consider joining them all together under a common umbrella in a single note. Try to keep explanations as simple and redundant as possible. Make sure to imply nothing: say everything explicitly. Use no topics which haven't been previously covered (if you notice you have relied on something not yet covered, add it to the 'Add These' document).
 
-If you don't know where to put a note, put it in Unfinished notes. Try not to link to any other notes in the 'body' of the note: we're not trying to create a web of connected ideas but a straightforward progression of ideas. Giving people many choices of where to go at each note will likely confuse them.
+Please link to all notes you create from Incomplete Notes, so a project manager can link them into the map. Try not to link to any other notes in the 'body' of the note: we're not trying to create a web of connected ideas but a straightforward progression of ideas. Giving people many choices of where to go at each note will likely confuse them.
 
 ---
 

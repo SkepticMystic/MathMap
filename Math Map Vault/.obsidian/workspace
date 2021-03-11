@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Logic/Disjunction.md",
+            "file": "Contributor Notes/Sample Note.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Disjunction.md",
+                "file": "Contributor Notes/Sample Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Contributor Notes/Sample Note.md",
+    "Other Things/CONTRIBUTOR HUB.md",
+    "Contributor Notes/Add These.md",
+    "Vision Statement.md",
     "Logic/Disjunction.md",
     "Conjunction.md",
     "Biconditional.md",
     "Conditional.md",
     "Logic/Logical Connectives.md",
-    "Logic/Truth Tables.md",
-    "Logic/Propositional Variables.md",
-    "Logic/Propositions.md",
-    "Logic/Introduction to Propositional Logic.md",
-    "Logic/Truth Values.md"
+    "Logic/Truth Tables.md"
   ]
 }

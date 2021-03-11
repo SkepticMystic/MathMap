@@ -13,14 +13,7 @@ This map of mathematics is intended for use by three groups: students, guardians
 # Contribution
 First off, the biggest contribution you can make is spreading the word about the project. If you want to contribute but don't want to use GitHub, you can view the map as described in the section above, and DM me in [Discord](https://discord.gg/dvW2HzBCMG) with any suggestions. If you want to contribute directly to the project, [fork](https://guides.github.com/activities/forking/) this GitHub repository to your account, then clone it to your hard drive. If you have the GitHub Desktop client, you'll most likely find the vault file (called "Math Map Vault") in your "GitHub" folder. Then, open [Obsidian](https://obsidian.md/) (after downloading it) and select "Open Folder as Vault". Then select the "Math Map Vault" folder from earlier. Now you can make edits, and using your GitHub desktop client push them to the main branch of the project for review.
 
-Some ways you can contribute:
-- Write a segment about a mathematical topic which hasn't been covered yet.
-- Edit a segment to make it clearer, more accurate, more accessible/less wordy, or better in general.
-- Reorganize some section to make sure that each concept flows from the previous in a natural way, and that the title of each note is as accurate and simple as possible.
-- Reorganize the tags or other metadata structures.
-- Spread the word about the project.
-
-Note that specific instructions for formatting notes and structuring 'sequences' (a series of notes on the same topic) will be located within the vault itself.
+Specific instructions for how you can contribute are located in the vault itself.
 
 # Future Plans
 We are planning on using Obsidian Publish to put the map out on the internet as soon as we have an acceptable minimum of content. If at some point we are able to create our own website which is tailored to our more specific custom needs, we'll do that, but for now the focus is on aggregating and then spreading knowledge about mathematics.
