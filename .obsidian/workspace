@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Map Vault/Contributor Notes/Add These.md",
+            "file": "Factorial.md",
             "mode": "source"
           }
         }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Map Vault/Contributor Notes/Add These.md",
+                "file": "Factorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Map Vault/Contributor Notes/Add These.md"
+                "file": "Factorial.md"
               }
             }
           }
@@ -123,6 +123,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Factorial.md",
     "Math Map Vault/Contributor Notes/Add These.md",
     "real numbers.md",
     "irrationals.md",
@@ -131,7 +132,6 @@
     "integers.md",
     "Math Map Vault/Other Things/Logic Notes.md",
     "Math Map Vault/Other Things/CONTRIBUTOR HUB.md",
-    "Math Map Vault/Logic/Truth Values.md",
-    "Math Map Vault/Logic/Propositional Variables.md"
+    "Math Map Vault/Logic/Truth Values.md"
   ]
 }
