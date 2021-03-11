@@ -20,6 +20,8 @@ Some ways you can contribute:
 - Reorganize the tags or other metadata structures.
 - Spread the word about the project.
 
+Note that specific instructions for formatting notes and structuring 'sequences' (a series of notes on the same topic) will be located within the vault itself.
+
 # Future Plans
 We are planning on using Obsidian Publish to put the map out on the internet as soon as we have an acceptable minimum of content. If at some point we are able to create our own website which is tailored to our more specific custom needs, we'll do that, but for now the focus is on aggregating and then spreading knowledge about mathematics.
 
