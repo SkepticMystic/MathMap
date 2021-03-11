@@ -6,6 +6,7 @@
       {
         "id": "b4bda881cdc48848",
         "type": "leaf",
+        "active": true,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -16,11 +17,10 @@
       {
         "id": "197e187e07f2daf0",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contributor Notes/Sample Note.md",
+            "file": "Contributor Information/Sample Note.md",
             "mode": "preview"
           }
         }
@@ -80,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contributor Notes/Sample Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
