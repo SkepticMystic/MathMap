@@ -1,3 +1,4 @@
+#ignore_this
 [[Representing Single-Digit Numbers Symbolically]]
 
 Once students begin to count verbally, they can begin to use numbers to count items. This is using numbers in the context of **cardinality**. The student's mentor figures should encourage them to count as many things as are available as often as possible: people, beans, trees, books, vegetables, etc.

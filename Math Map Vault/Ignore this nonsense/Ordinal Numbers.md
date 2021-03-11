@@ -1,3 +1,4 @@
+#ignore_this
 [[Representing Single-Digit Numbers Symbolically]]
 
 Once students begin to count verbally, they can begin to use numbers to order items in lists. This is using numbers in the context of **ordinality**. The student's mentor figures should encourage them to count their way through lists of things: people standing in line, racecars finishing races, pages in books, etc.

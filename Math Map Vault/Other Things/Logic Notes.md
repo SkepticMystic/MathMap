@@ -51,3 +51,5 @@ partitions are like organizing sets
 Make truth tables to clearly see when the propositions are true/false.
 
 tautology: statement which is true no matter the value of the components
+
+[[Midterm Review]]

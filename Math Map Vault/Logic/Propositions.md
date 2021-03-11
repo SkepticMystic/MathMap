@@ -1,11 +1,9 @@
 #logic
 # Propositions
-
+---
 A **proposition** is simply a word mathematicians use for a statement which asserts something and has the property of being either true or false, but not both (nor neither).
 
 In other words, for a statement to be a valid proposition, you must be able to assign one and only one truth value to it, where the only allowed truth values are 'true' and 'false'.
-
-### Examples
 
 Some examples of valid propositions:
 - *"Jellyfish are spineless animals."*
@@ -18,8 +16,6 @@ The examples above are valid propositions because one and only one true/false tr
 - #3 is true: human red blood cells do lose their nuclei during maturation.
 
 Note that the truth value assigned to a proposition has no bearing on it being valid or not.
-
-### More Examples
 
 Some examples of statements which are *not* propositions:
 - *"Do not go to the store today.""*
@@ -38,12 +34,12 @@ Some examples of statements which are *not* propositions:
 
 Because propositions have to be *either* true or false, not both, the statement "This statement is false" cannot be a proposition, even though it does assert something.
 
-### Summary
+In summary, valid propositions must have the following properties:
 
-Valid propositions have the following properties:
+- Is a statement which asserts something.
+- Is not a command nor a question.
+- Is either true or false.
 
-- Are statements which assert something.
-- Cannot be a command nor a question.
-- Must be either true or false.
+---
 
 Next: [[Propositional Variables]]

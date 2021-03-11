@@ -38,7 +38,7 @@ However, we also know that every element in $B$ is also in $A$, so let's make an
 	</center>
 </html>
 
-The only way both of these things can be true at the same time is that they both contained exactly the same elements:
+The only way both of these things can be true at the same time is that they both contain exactly the same elements:
 
 <html>
 	<center>
