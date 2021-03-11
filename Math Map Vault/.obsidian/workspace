@@ -15,12 +15,12 @@
         }
       },
       {
-        "id": "f9dad1c215b82849",
+        "id": "197e187e07f2daf0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Set Theory/Introduction to Set Theory.md",
+            "file": "Heart of Mathematics/Introduction to Mathematics.md",
             "mode": "preview"
           }
         }
@@ -107,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Heart of Mathematics/Introduction to Mathematics.md",
+    "Set Theory/Sets, Elements, and Membership.md",
+    "Set Theory/Introduction to Set Theory.md",
     "Truth Tables.md",
     "Sample Note.md",
     "Other Things/CONTRIBUTOR HUB.md",
     "Double Negatives.md",
     "Negation.md",
     "Other Things/Logic Notes.md",
-    "Midterm Review.md",
-    "Unfinished Notes.md",
-    "Sample Curriculum.md",
-    "Add This.md"
+    "Midterm Review.md"
   ]
 }
