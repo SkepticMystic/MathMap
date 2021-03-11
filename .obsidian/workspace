@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Map Vault/Set Theory/The Empty Set.md",
+            "file": "Math Map Vault/Contributor Notes/Add These.md",
             "mode": "source"
           }
         }
@@ -25,6 +25,7 @@
       {
         "id": "fafe828416837c6b",
         "type": "tabs",
+        "dimension": 78.33655705996132,
         "children": [
           {
             "id": "93ba64f435f275a0",
@@ -58,6 +59,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "33e4e8dafcf28003",
+        "type": "tabs",
+        "dimension": 21.663442940038685,
+        "children": [
+          {
+            "id": "e632f77a2b9e9960",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -77,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Map Vault/Set Theory/The Empty Set.md",
+                "file": "Math Map Vault/Contributor Notes/Add These.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,22 +106,13 @@
             }
           },
           {
-            "id": "e632f77a2b9e9960",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
             "id": "4d399d62489c7484",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Math Map Vault/Contributor Notes/Add These.md"
+              }
             }
           }
         ]
@@ -113,11 +123,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Math Map Vault/Set Theory/The Empty Set.md",
-    "Math Map Vault/Set Theory/Cardinality.md",
-    "Math Map Vault/Contributor Notes/Unfinished Notes.md",
-    "Math Map Vault/Contributor Notes/Sample Note.md",
-    "Math Map Vault/Contributor Notes/Sample Curriculum.md",
-    "Math Map Vault/Contributor Notes/Add These.md"
+    "Math Map Vault/Contributor Notes/Add These.md",
+    "real numbers.md",
+    "irrationals.md",
+    "rationals.md",
+    "natural numbers.md",
+    "integers.md",
+    "Math Map Vault/Other Things/Logic Notes.md",
+    "Math Map Vault/Other Things/CONTRIBUTOR HUB.md",
+    "Math Map Vault/Logic/Truth Values.md",
+    "Math Map Vault/Logic/Propositional Variables.md"
   ]
 }
