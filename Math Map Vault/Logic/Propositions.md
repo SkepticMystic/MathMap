@@ -1,6 +1,9 @@
 #logic
+
 # Propositions
+
 ---
+
 A **proposition** is simply a word mathematicians use for a statement which asserts something and has the property of being either true or false, but not both (nor neither).
 
 In other words, for a statement to be a valid proposition, you must be able to assign one and only one truth value to it, where the only allowed truth values are 'true' and 'false'.

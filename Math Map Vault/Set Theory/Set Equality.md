@@ -1,5 +1,9 @@
 #set_theory 
+
 # Set Equality
+
+---
+
 Two sets are considered **equal** if they contain the exact same elements. So for example, say we have two sets: $M$ and $N$. If $M = \{a, b, c\}$ and $N = \{a, b, c\}$, $M = N$. Simple as that.
 
 This probably makes intuitive sense, but we can also show that this follows from our concept of subsets. Two numbers, $a$ and $b$, are equal if both of the following are true: $$a \ge b$$ $$b \ge a$$

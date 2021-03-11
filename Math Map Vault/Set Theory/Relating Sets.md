@@ -1,6 +1,9 @@
 #set_theory 
+
 # Relating Sets
+
 ---
+
 When given two numbers, we can compare them and say that one is
 
 - $\ge$ greater than or equal to

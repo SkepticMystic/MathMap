@@ -1,6 +1,9 @@
 #set_theory 
+
 # Curly Brace Notation
+
 ---
+
 **Curly brace notation** is a convenient way for us to write out the contents of a set. Say you have a set $A$ you want to fill with elements $m$ and $n$. You could write $$m, n \in A$$
 
 or $$A \ni m, n$$

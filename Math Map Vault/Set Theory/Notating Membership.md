@@ -1,6 +1,9 @@
 #set_theory 
+
 # Notating Membership
+
 ---
+
 There are a few ways we can show that some element, which we'll call $a$, belongs to some set, which we'll call $S$. One way is using the symbol for membership, which looks like this: $\in$
 
 $\in$ means "in", so to show that $a$ is an element of $S$ we can write $$a \in S$$

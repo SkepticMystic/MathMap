@@ -1,6 +1,9 @@
 #set_theory 
+
 # Subsets and Supersets
+
 ---
+
 A set $X$ is a **subset** of a set $Y$ if all elements in $X$ are also in $Y$. For example, suppose that $$X = \{a, c\}$$ $$Y = \{a, b, c, d\}$$
 
 All of the elements in $X$ are also contained in $Y$, so $X$ is a subset of $Y$. The subset symbol is $\subseteq$, so we would write: $$X \subseteq Y$$
