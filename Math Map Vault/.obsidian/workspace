@@ -6,7 +6,6 @@
       {
         "id": "b4bda881cdc48848",
         "type": "leaf",
-        "active": true,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -17,10 +16,11 @@
       {
         "id": "197e187e07f2daf0",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Heart of Mathematics/Introduction to Mathematics.md",
+            "file": "Contributor Notes/Sample Note.md",
             "mode": "preview"
           }
         }
@@ -80,6 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Contributor Notes/Sample Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,11 +93,8 @@
             "id": "a830c55c21d24ecf",
             "type": "leaf",
             "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -107,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Contributor Notes/Sample Note.md",
+    "Contributor Notes/Incomplete Notes.md",
     "Heart of Mathematics/Introduction to Mathematics.md",
-    "Set Theory/Sets, Elements, and Membership.md",
-    "Set Theory/Introduction to Set Theory.md",
-    "Truth Tables.md",
-    "Sample Note.md",
-    "Other Things/CONTRIBUTOR HUB.md",
-    "Double Negatives.md",
-    "Negation.md",
-    "Other Things/Logic Notes.md",
-    "Midterm Review.md"
+    "Set Theory/Proper Subsets and Proper Supersets.md",
+    "Set Theory/Set Equality.md",
+    "Set Theory/Subsets and Supersets.md",
+    "Set Theory/Relating Sets.md",
+    "Set Theory/Singletons.md",
+    "Set Theory/The Empty Set.md",
+    "Set Theory/Euler Diagrams.md"
   ]
 }

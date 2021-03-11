@@ -1,8 +1,3 @@
----
-date updated: '2021-03-11T12:37:25+02:00'
-
----
-
 #logic
 
 # Logical Connectives

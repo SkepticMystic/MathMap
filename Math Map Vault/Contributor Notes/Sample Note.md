@@ -10,11 +10,10 @@ After this, text is broken up into paragraphs however you think is appropriate. 
 - to demonstrate the steps required for some process
 - or whenever you feel like it would help with presenting the information
 
-All notes should strive to be as atomized as possible while still being reasonable. Try to keep explanations as simple and redundant as possible. Make sure to imply nothing: say everything explicitly. Use no topics which haven't been previously covered (if you notice you have relied on something not yet covered, add it to the 'Add These' document).
+All notes should strive to be as atomized as possible while still being reasonably self-contained. If you've got three or four related small topics, consider joining them all together under a common umbrella in a single note. Try to keep explanations as simple and redundant as possible. Make sure to imply nothing: say everything explicitly. Use no topics which haven't been previously covered (if you notice you have relied on something not yet covered, add it to the 'Add These' document).
 
-If you don't know where to put a note, put it in [[Unfinished Notes]].
-(Please be advised that any links in the middle of notes are strongly discouraged. We want to only have links at the ends of documents, like at the end of this document)
+If you don't know where to put a note, put it in Unfinished notes. Try not to link to any other notes in the 'body' of the note: we're not trying to create a web of connected ideas but a straightforward progression of ideas. Giving people many choices of where to go at each note will likely confuse them.
 
 ---
 
-Next: Insert, Comma-Separated, Links, Here
+Next: [[Incomplete Notes]]

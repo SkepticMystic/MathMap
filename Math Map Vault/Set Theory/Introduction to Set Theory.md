@@ -1,6 +1,9 @@
 #set_theory
+
 # Introduction to Set Theory
+
 ---
+
 **Set theory** is an extremely important branch of math. Almost every mathematical subject can be expressed using set theory concepts: number theory, algebra, geometry, calculus, you name it...they all boil down to set theory. And on top of that, there are many branches of math which simply wouldn't exist without set theory, such as point-set topology or abstract algebra.
 
 Set theory is quite abstract - it needs flexibility to be able to serve as a foundation for all of those other fields of math - and this can initially make it a bit difficult to grasp. However, if you stick with it, you'll be well rewarded. The deeper understanding of mathematics you gain by viewing it through the lens of set theory is definitely worth the effort.

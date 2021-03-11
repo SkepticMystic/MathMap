@@ -1,6 +1,9 @@
 #logic 
+
 # Truth Values
+
 ---
+
 An important elementary concept in logic are **truth values**. A truth value can be thought of as an indication of "how true" something is. Different types of logic allow different truth values.
 
 In many types of logic, the only two truth values permitted are 'true' and 'false', which are represented in four main ways:

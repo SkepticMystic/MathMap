@@ -11,6 +11,6 @@ If you have questions about anything just ask me in the [Discord Server](https:/
 
 [[Sample Curriculum]] contains some of the Common Core math curriculum for the state of California. It's just a reference page.
 
-Want to write a note, but not sure where to put it yet? Link to it from [[Unfinished Notes]]!
+Want to write a note, but not sure where to put it yet? Link to it from [[Incomplete Notes]]!
 
 Anything tagged `#ignore_this` should be ignored because it's not currently part of the map. Things tagged with that are leftovers from earlier drafts or partial ideas which need some serious thought put into how they should be integrated into the map.

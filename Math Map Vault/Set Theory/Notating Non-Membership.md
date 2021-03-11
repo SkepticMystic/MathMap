@@ -1,6 +1,9 @@
 #set_theory 
+
 # Notating Non-membership
+
 ---
+
 Just as we have two notations to express membership:
 
 - $\in$

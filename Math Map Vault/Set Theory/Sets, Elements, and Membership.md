@@ -1,6 +1,9 @@
 #set_theory 
+
 # Sets, Elements, and Membership
+
 ---
+
 The most basic concept of set theory is, as the name suggests, the **set**. A set is a grouping or collection of objects. You've probably heard the word 'set' used in this fashion before, for example
 
 - "a set of silverware"

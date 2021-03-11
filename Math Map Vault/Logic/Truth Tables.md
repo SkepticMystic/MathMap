@@ -1,6 +1,9 @@
 #logic 
+
 # Truth Tables
+
 ---
+
 At this point, we know that all propositions have a truth value with two possible states ('true' and 'false'). We also know that we can represent any given proposition without knowing what it actually says (by representing it with a propositional variable). These two facts allow us to model propositions very effectively in a rather abstract way.
 
 To see how, take an example proposition $P$. We know it has to be either be true or false, so if we first model its behavior assuming that it's true, and then do the same assuming it's false, we'll know the entirety of its behavior. We don't need to worry about the contents at all.

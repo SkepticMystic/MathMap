@@ -1,6 +1,9 @@
 #set_theory 
+
 # Cardinality
+
 ---
+
 Now that we understand that sets are collections of elements, it might make sense to define some notion of the "size" of a set. **Cardinality** refers to the number of elements in a set.
 
 Examples:

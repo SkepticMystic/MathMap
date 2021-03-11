@@ -58,7 +58,7 @@ Scientific Notation
 Operations:
 
 - Modulo
-- [[Factorial]]
+- Factorial
 - Roots
 - Logical
 
@@ -279,8 +279,8 @@ Relative Coordinates:
 
 Lines:
 
-- [[Euclidian Distance]] Formula
-- [[Slope]]
+- Euclidian Distance Formula
+- 
 - Intercepts
 
 Interval Notation
@@ -362,13 +362,13 @@ Set Theory has to come from arithmetic or at least come after counting
 venn diagrams to the set theory segment
 sets of numbers:
 
-- [[Natural Numbers]],
-- [[Integers]],
-- [[Rationals]],
-- [[Irrationals]],
-- Transcendentals,
-- [[Real Numbers]],
-- Complex numbers,
+- Natural Numbers
+- Integers
+- Rationals
+- Irrationals
+- Transcendentals
+- Real Numbers
+- Complex numbers
 - Constructable numbers, etc
 
 Logistic Growth
@@ -376,7 +376,7 @@ Exponential Growth
 Logarithmic Growth
 
 Connect sets to logic
-Connect logic to sets (use logic to show how [[Proof by Contradiction]] works, for example, and then connect that to subsets and supersets to prove that for any set $S$ the null set is a subset)
+Connect logic to sets (use logic to show how Proof by Contradiction works, for example, and then connect that to subsets and supersets to prove that for any set $S$ the null set is a subset)
 Propositions are closed under logical operations
 data representation such as tables
 
