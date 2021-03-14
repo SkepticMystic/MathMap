@@ -9,19 +9,19 @@ Let's say that we have two propositions:
 - $P$ says "Ted likes pie."
 - $Q$ says "Ted likes ice cream."
 
-We could create a new proposition which says "Ted likes pie and Ted likes ice cream." It's a proposition because it asserts something (namely that Ted likes pie and ice cream) which is clearly either true or false. Either Ted likes both pie and ice cream, in which case it's true, or he doesn't, in which case it's false.
+We can combine these propositions to make bigger propositions. For example:
 
-This new proposition has a more complex behavior than either $P$ or $Q$ do alone: its truth value depends on the truth values of the smaller propositions which make it up. If both $P$ and $Q$ are true (if Ted likes pie and Ted likes ice cream) then it's true. However, if either $P$ or $Q$ aren't true (meaning he doesn't like pie or doesn't like ice cream), it's false.
+- "Ted likes pie **and** Ted likes ice cream."
+- "Ted likes pie **or** Ted likes ice cream."
+- "**If** Ted likes pie, **then** Ted likes ice cream."
+- "Ted likes pie **only if** Ted likes ice cream."
+- "**Either** Ted likes pie **or** Ted likes ice cream."
 
-This example demonstrates how we can combine propositions to make more complex and interesting new propositions. What allows us to do that (in the example above it was the word "and") are what we call 'logical operators'. **Logical operators** allow us to modify one or more propositions to obtain new, more complex propositions.
+Each of these sentences is a statement which asserts something. Each of these statements can be either true or false. So each of these statements is a proposition. Clearly none of them have the same meaning, yet somehow we've created all of them using the same two basic propositions, $P$ and $Q$. How did we do this?
 
-There are many logical operators, but the interesting thing is that given one or two carefully chosen logical operators to work with, you can actually recreate the behavior of all of the other logical operators. We'll get into this after we go over the five main logical operators:
+These new, more complex propositions were created using certain 'connecting words', which in the field of logic are called 'logical operators'. **Logical operators** allow us to modify or combine one or more propositions to obtain new, more complex propositions, which depend on the truth values of the propositions which make them up.
 
-- Conjunction
-- Disjunction
-- Conditional
-- Biconditional
-- Negation
+There are many logical operators, but the interesting thing is that given one or two carefully chosen logical operators to work with, you can actually recreate the behavior of all of the other logical operators.
 
 ---
 

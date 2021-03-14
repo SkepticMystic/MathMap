@@ -4,12 +4,12 @@
 
 ---
 
-The logical operator **conjunction** combines two propositions into a new proposition in a way analogous to the word "and". This is why it's sometimes called the "AND" operator. You might recognize conjunction as the operator we used in our "Ted likes pie and Ted likes ice cream" example from earlier. Say we have the following two propositions:
+The logical operator **conjunction** combines two propositions into a new proposition in a way analogous to the word "and". This is why it's sometimes called the "AND" operator. Say we have the following two propositions:
 
 - $P$ says "I am thirsty"
 - $Q$ says "I am tired"
 
-The conjunction of the two would be "I am thirsty and I am tired" (which is equivalent to saying "I am thirsty and tired"). Conjunction is symbolized with the '$\land$' symbol, so we could write this new proposition as $P \land Q$. This is read as "$P$ and $Q$".
+The conjunction of the two would be "I am thirsty and I am tired." Conjunction is symbolized with the '$\land$' symbol, so we could write this new proposition as $P \land Q$. This is read as "$P$ and $Q$".
 
 The entire proposition $P \land Q$ is only true when both $P$ **and** $Q$ are true. In other words, if either $P$ or $Q$ are false, then the entire proposition is false. Hopefully this makes intuitive sense: the statement "I am thirsty and tired" should be true if I'm both thirsty and tired, but in all other cases (if I'm thirsty but not tired, or tired but not thirsty, or neither thirsty nor tired) it should be false.
 
@@ -23,6 +23,7 @@ The entire proposition $P \land Q$ is only true when both $P$ **and** $Q$ are tr
 - $P~~AND~~Q$
 
 ---
+
 
 Let's model the conjunction of two propositions using a truth table:
 
@@ -60,8 +61,9 @@ Remember that in a truth table, the top row shows the propositions under conside
 
 Why are there four rows of truth values? The behavior of $P \land Q$ is entirely determined by what the truth values of $P$ and $Q$ are, so we can completely model the behavior of $P \land Q$ if we model every possible combination of truth values for $P$ and $Q$. There are four such possible combinations, each of which is one row of truth values.
 
-Let's practice using the table by looking at the first situation (the first row of truth values): if $P$ is false and $Q$ is false, then $P \land Q$ is also false. If we look at the rest of the rows:
+Reading the truth table, we see that:
 
+- the first row tells us that if $P$ is false and $Q$ is false, $P \land Q$ is false
 - the second row tells us that if $P$ is false but $Q$ is true, $P \land Q$ is false
 - the third row tells us that if $P$ is true but $Q$ is false, $P \land Q$ is false
 - the fourth row tells us that if $P$ is true and $Q$ is true, $P \land Q$ is true
