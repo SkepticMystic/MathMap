@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Incomplete Notes/Negation.md",
-            "mode": "source"
+            "file": "Incomplete Notes/Double Negatives.md",
+            "mode": "preview"
           }
         }
       }
@@ -59,8 +59,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -81,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Incomplete Notes/Negation.md",
+                "file": "Incomplete Notes/Double Negatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +105,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Incomplete Notes/Double Negatives.md",
     "Incomplete Notes/Negation.md",
     "Logic/Propositional Logic/Biconditional.md",
     "Logic/Propositional Logic/Conditional.md",
@@ -114,7 +114,6 @@
     "Logic/Propositional Logic/Conjunction.md",
     "Logic/Propositional Logic/Logical Operators.md",
     "Conditional Truth Table.md",
-    "Logic/Propositional Logic/Disjunction.md",
-    "Disjunction Truth Table.md"
+    "Logic/Propositional Logic/Disjunction.md"
   ]
 }
