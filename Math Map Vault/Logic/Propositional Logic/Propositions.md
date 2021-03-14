@@ -45,4 +45,4 @@ In summary, valid propositions must have the following properties:
 
 ---
 
-Next: [[Propositional Variables]]
+Next: [[Propositional Variables]], [[Notating Membership]]
