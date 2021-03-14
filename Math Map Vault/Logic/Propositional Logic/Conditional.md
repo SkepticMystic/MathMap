@@ -11,7 +11,7 @@ The **conditional** logical operator combines two propositions into a new propos
 
 We can combine them with the conditional to get "I am hungry implies that I eat food." You could equivalently say "If I am hungry, I eat food."
 
-The conditional is symbolized with the '$\implies$' symbol, so we could write "If I am hungry, I eat food" as $P \implies Q$. This is read as "$P$ implies $Q$", or "If $P$, then $Q$."
+The conditional is symbolized with the $\implies$ symbol, so we could write "If I am hungry, I eat food" as $P \implies Q$. This is read as "$P$ implies $Q$", or "If $P$, then $Q$".
 
 The best way to think of the conditional is that it's a promise. Imagine that you say "If I am hungry, I eat food." If you do become hungry and then eat some food, you've kept your promise, so the statement "If I am hungry, I eat food" is true. However, if you become hungry and don't eat any food, then you've broken your promise, so the statement "If I am hungry, I eat food" is clearly false. Using our propositional variables, $P \implies Q$ is true if both $P$ and $Q$ are true, but false if $P$ is true and $Q$ is not true.
 
@@ -21,7 +21,7 @@ Also note that the conditional $P \implies Q$ is sometimes written as $P$ -> $Q$
 
 ---
 
-Now, let's model implication using a truth table:
+Let's model the conditional using a truth table:
 
 <html>
 	<table>

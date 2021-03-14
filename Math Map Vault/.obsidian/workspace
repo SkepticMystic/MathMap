@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Logic/Propositional Logic/Biconditional.md",
+            "file": "Incomplete Notes/Negation.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#logic",
+                "query": "not true",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -80,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Propositional Logic/Biconditional.md",
+                "file": "Incomplete Notes/Negation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Incomplete Notes/Negation.md",
     "Logic/Propositional Logic/Biconditional.md",
     "Logic/Propositional Logic/Conditional.md",
+    "Logic/Propositional Logic/Propositional Variables.md",
+    "Logic/Propositional Logic/Propositions.md",
     "Logic/Propositional Logic/Conjunction.md",
+    "Logic/Propositional Logic/Logical Operators.md",
     "Conditional Truth Table.md",
     "Logic/Propositional Logic/Disjunction.md",
-    "Disjunction Truth Table.md",
-    "Conjunction Truth Table.md",
-    "Logic/Propositional Logic/Truth Tables.md",
-    "Logic/Propositional Logic/Propositional Variables.md",
-    "Logic/Propositional Logic/Logical Operators.md"
+    "Disjunction Truth Table.md"
   ]
 }
