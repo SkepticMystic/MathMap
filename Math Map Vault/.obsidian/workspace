@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Logic/Propositional Logic/Conjunction.md",
-            "mode": "preview"
+            "file": "Logic/Propositional Logic/Conditional.md",
+            "mode": "source"
           }
         }
       }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Propositional Logic/Conjunction.md",
+                "file": "Logic/Propositional Logic/Conditional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,12 +105,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Logic/Propositional Logic/Conjunction.md",
+    "Logic/Propositional Logic/Conditional.md",
     "Logic/Propositional Logic/Disjunction.md",
+    "Logic/Propositional Logic/Conjunction.md",
+    "Logic/Propositional Logic/Logical Operators.md",
     "Incomplete Notes/Negation.md",
     "Heart of Mathematics/Operators.md",
-    "Logic/Propositional Logic/Logical Operators.md",
-    "Logic/Propositional Logic/Conditional.md",
     "Logic/Propositional Logic/Truth Tables.md",
     "Logic/Propositional Logic/Propositional Variables.md",
     "Logic/Propositional Logic/Propositions.md",

@@ -3,20 +3,28 @@
 # Conjunction
 
 ---
-The logical operator **conjunction** combines two propositions into a new proposition in a way analogous to the word "and". You might recognize conjunction as the operator we used in our "Ted likes pie and Ted likes ice cream" example from earlier. Say we have the following two propositions:
+
+The logical operator **conjunction** combines two propositions into a new proposition in a way analogous to the word "and". This is why it's sometimes called the "AND" operator. You might recognize conjunction as the operator we used in our "Ted likes pie and Ted likes ice cream" example from earlier. Say we have the following two propositions:
 
 - $P$ says "I am thirsty"
 - $Q$ says "I am tired"
 
 The conjunction of the two would be "I am thirsty and I am tired" (which is equivalent to saying "I am thirsty and tired"). Conjunction is symbolized with the '$\land$' symbol, so we could write this new proposition as $P \land Q$. This is read as "$P$ and $Q$".
 
-The entire proposition $P \land Q$ is only true when both $P$ **and** $Q$ are true. In other words, if either $P$ or $Q$ are false, then the entire proposition is false. Hopefully this makes sense: if I'm  thirsty but not tired, or tired but not thirsty, or neither thirsty nor tired, then the statement "I am thirsty and tired" is clearly false.
+The entire proposition $P \land Q$ is only true when both $P$ **and** $Q$ are true. In other words, if either $P$ or $Q$ are false, then the entire proposition is false. Hopefully this makes intuitive sense: the statement "I am thirsty and tired" should be true if I'm both thirsty and tired, but in all other cases (if I'm thirsty but not tired, or tired but not thirsty, or neither thirsty nor tired) it should be false.
 
- The key takeaway here is that the conjunction of any two propositions results in a new proposition which is only true when both of the original two propositions are true.
+ The key takeaway here is that the conjunction of two propositions is true if both original propositions are true, and is false in all other cases. Another way to look at it is if the conjunction of two propositions is true, then both of the original propositions must be true, and if the conjunction is false, then at least one of the original propositions must be false.
+ 
+ Note that there are alternate symbols for the conjunction operator: some people use an asterisk, others use a dot, and still others use the word "AND". The conjunction of $P$ and $Q$ could be written as:
+
+- $P \land Q$
+- $P * Q$
+- $P \cdot Q$
+- $P~~AND~~Q$
 
 ---
 
-Now, let's model the conjunction of two propositions using a truth table:
+Let's model the conjunction of two propositions using a truth table:
 
 <html>
 	<table>
@@ -58,7 +66,7 @@ Let's practice using the table by looking at the first situation (the first row 
 - the third row tells us that if $P$ is true but $Q$ is false, $P \land Q$ is false
 - the fourth row tells us that if $P$ is true and $Q$ is true, $P \land Q$ is true
 
-Looking at the column under $P \land Q$, it's clear that the only time $P \land Q$ is true is when both $P$ and $Q$ are true.
+Looking at the column under $P \land Q$, it's clear that the only time $P \land Q$ is true is when both $P$ and $Q$ are true. If either $P$ or $Q$ are false, $P \land Q$ is false.
 
 ---
 
