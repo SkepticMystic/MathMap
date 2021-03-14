@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Incomplete Notes/Double Negatives.md",
+            "file": "Logic/Propositional Logic/Propositional Closure.md",
             "mode": "source"
           }
         }
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "not true",
+                "query": "set",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25bfce8f8fa76dd9",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Incomplete Notes/Double Negatives.md",
+                "file": "Logic/Propositional Logic/Propositional Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Incomplete Notes/Double Negatives.md",
+    "Logic/Propositional Logic/Propositional Closure.md",
+    "Propositional Closure.md",
     "Incomplete Notes/Negation.md",
+    "Incomplete Notes/Double Negatives.md",
+    "Logic/Propositional Logic/Biconditional.md",
     "Logic/Propositional Logic/Disjunction.md",
     "Logic/Propositional Logic/Conjunction.md",
     "Contributor Information/Sample Note.md",
     "Contributor Information/Vision Statement.md",
-    "Contributor Information/Add These.md",
-    "Contributor Information/CONTRIBUTOR HUB.md",
-    "Heart of Mathematics/Using the Map.md",
-    "Heart of Mathematics/Notation.md"
+    "Contributor Information/Add These.md"
   ]
 }
