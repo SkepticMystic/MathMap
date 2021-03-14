@@ -10,4 +10,4 @@ We can define mathematical objects both 'informally' and 'formally' (which is so
 
 ---
 
-Next: [[Operators]]
+Next: [[Operators and Operands]]

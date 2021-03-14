@@ -4,7 +4,7 @@
 
 ---
 
-This method is used to prove a statement by showing that _if the [[Negation]] were `True`_ then a [[contradiction]] would arise.
+This method is used to prove a statement by showing that _if the negation were `True`_ then a contradiction would arise.
 
 To show that $P$ is `True`, we try to show that $\neg~P\rightarrow \bot$.
 

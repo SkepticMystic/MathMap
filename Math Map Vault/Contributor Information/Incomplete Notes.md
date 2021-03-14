@@ -2,7 +2,6 @@
 # Incomplete Notes
 ---
 These notes are either unfinished or unlinked:
-- [[Negation]]
 - [[Logic Notes]]
 - [[Counting to 10]]
 - [[Factorial]]
@@ -14,3 +13,4 @@ These notes are either unfinished or unlinked:
 - [[Real Numbers]]
 - [[Proof by Contradiction]]
 - [[Euclidian Distance]]
+- [[Complex Numbers]]

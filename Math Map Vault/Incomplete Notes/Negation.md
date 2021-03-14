@@ -1,6 +1,9 @@
-#ignore_this 
+#propositional_logic 
+
 # Negation
+
 ---
+
 The **negation** (sometimes called the **logical complement**) of a proposition is a different proposition which always has the opposite truth value.
 
 Suppose that we have a proposition which we represent with the propositional variable $P$. The negation of $P$ would be the proposition which always has the opposite truth value as $P$:

@@ -62,7 +62,7 @@ We can create a truth table which shows all of the possible combinations of trut
 	</table>
 </html>
 
-Each row of truth values in the table represents one possible combination of truth values. So for example the first row has 'F', 'F', indicating that one combination is that both $P$ and $Q$ are false.
+Each row of truth values in the table represents one possible combination of truth values for the propositions. So for example the first row has 'F', 'F', indicating that one of the possible combinations is that both $P$ and $Q$ are false.
 
 Things quickly get more complicated when you add on more propositions: the truth table for three propositions $P$, $Q$, and $R$ looks like this:
 
@@ -118,8 +118,8 @@ Things quickly get more complicated when you add on more propositions: the truth
 	</table>
 </html>
 
-As you can see, with three propositions there are a total of $8$ different possible combinations of truth values. Truth tables will be invaluable for modeling behaviors of more complex propositions, like those we create by combining smaller propositions.
+As you can see, with three propositions there are a total of $8$ different possible combinations of truth values. Truth tables will be invaluable for modeling behaviors of more complex propositions.
 
 ---
 
-Next: [[Logical Connectives]]
+Next: [[Logical Operators]]

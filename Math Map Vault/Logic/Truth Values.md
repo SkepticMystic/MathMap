@@ -13,7 +13,7 @@ In many types of logic, the only two truth values permitted are 'true' and 'fals
 - $1$/$0$
 - ON/OFF
 
-True/False and T/F are most often found in classic logic, while $1$/$0$ and ON/OFF are most often found when dealing with computers. There are no intermediate or other values allowed. Other types of logic have more exotic conceptions of truth.
+True/False and T/F are most often found in classic logic, while $1$/$0$ and ON/OFF are most often found when dealing with computers. In these types of logic, there are no intermediate or alternative truth values allowed. However, other types of logic have more exotic conceptions of truth.
 
 Some systems might take into account the probability of something being true or false when assigning a truth value.
 

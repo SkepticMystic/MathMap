@@ -7,3 +7,5 @@
 
 
 ---
+
+Next: [[Negation]]

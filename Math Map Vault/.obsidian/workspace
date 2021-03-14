@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contributor Information/Sample Note.md",
+            "file": "Incomplete Notes/Negation.md",
             "mode": "preview"
           }
         }
@@ -104,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Contributor Notes/Sample Note.md",
-    "Other Things/CONTRIBUTOR HUB.md",
-    "Contributor Notes/Add These.md",
-    "Vision Statement.md",
-    "Logic/Disjunction.md",
-    "Conjunction.md",
-    "Biconditional.md",
-    "Conditional.md",
-    "Logic/Logical Connectives.md",
-    "Logic/Truth Tables.md"
+    "Incomplete Notes/Negation.md",
+    "Logic/Propositional Logic/Conjunction.md",
+    "Heart of Mathematics/Operators.md",
+    "Logic/Propositional Logic/Logical Operators.md",
+    "Logic/Propositional Logic/Disjunction.md",
+    "Logic/Propositional Logic/Conditional.md",
+    "Logic/Propositional Logic/Truth Tables.md",
+    "Logic/Propositional Logic/Propositional Variables.md",
+    "Logic/Propositional Logic/Propositions.md",
+    "Logic/Propositional Logic/Introduction to Propositional Logic.md"
   ]
 }
