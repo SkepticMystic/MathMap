@@ -80,8 +80,8 @@ Sequences:
 
 Combinatorics:
 
-- Permutations
-- Combinations
+- [[Permutations]]
+- [[Combinations]]
 
 Set Operations:
 
@@ -350,6 +350,24 @@ Function Transformations:
 Rational Functions
 Extraneous Solutions
 Systems of Equations
+
+## Statistics
+
+### Data Types
+
+### Measures
+
+[[Mean]]
+[[Median]]
+[[Mode]]
+[[Standard Deviation]]
+[[Variance]]
+
+### Probability
+
+Probability
+[[Permutations]]
+[[Combinations]]
 
 ## Misc Notes
 
