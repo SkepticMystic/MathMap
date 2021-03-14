@@ -21,7 +21,7 @@
           "type": "markdown",
           "state": {
             "file": "Incomplete Notes/Double Negatives.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -107,13 +107,13 @@
   "lastOpenFiles": [
     "Incomplete Notes/Double Negatives.md",
     "Incomplete Notes/Negation.md",
-    "Logic/Propositional Logic/Biconditional.md",
-    "Logic/Propositional Logic/Conditional.md",
-    "Logic/Propositional Logic/Propositional Variables.md",
-    "Logic/Propositional Logic/Propositions.md",
+    "Logic/Propositional Logic/Disjunction.md",
     "Logic/Propositional Logic/Conjunction.md",
-    "Logic/Propositional Logic/Logical Operators.md",
-    "Conditional Truth Table.md",
-    "Logic/Propositional Logic/Disjunction.md"
+    "Contributor Information/Sample Note.md",
+    "Contributor Information/Vision Statement.md",
+    "Contributor Information/Add These.md",
+    "Contributor Information/CONTRIBUTOR HUB.md",
+    "Heart of Mathematics/Using the Map.md",
+    "Heart of Mathematics/Notation.md"
   ]
 }

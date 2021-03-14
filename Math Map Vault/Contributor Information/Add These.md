@@ -65,13 +65,10 @@ Sequences:
 
 ## Theory:
 
-s/Elements/Cardinality
--Empty Set/Singleton
 Nested Sets
 Subsets/Supersets:
 
 - Proper Subset/Proper Superset
-- Set Equality
 - Families of Sets
 
 Sequences:
