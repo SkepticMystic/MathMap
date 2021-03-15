@@ -39,9 +39,9 @@ Because propositions have to be *either* true or false, not both, the statement 
 
 In summary, valid propositions must have the following properties:
 
-- Is a statement which asserts something.
-- Is not a command nor a question.
-- Is either true or false.
+- Is a statement which asserts something
+- Is not a command nor a question
+- Is either true or false
 
 ---
 

@@ -13,11 +13,11 @@ This means "a is in S". It could also be read as:
 - "a is an element of S"
 - "a is a member of S"
 
-A tie-in from propositional logic: $a \in S$ is an example of a proposition. We've clearly asserted something which is either true or false. By writing it down, we're asserting that it is true. Every mathematical statement we make about set membership will be a proposition.
-
 Using our days in the week example, if the set $D$ is the collection of all of the days in the week, then we could show that 'Monday' is an element of $D$ with $$Monday \in D$$
 
 Note that $\in$ does not imply exclusionary membership. If I write that $Monday \in D$, it doesn't mean that there are no other elements contained within $D$. It just means that one of the elements in $D$ is 'Monday'. It's possible that 'Monday' is the only element, but we don't know whether or not that is true based only on the statement $Monday \in D$.
+
+A quick tie-in from propositional logic: $Monday \in D$ is an example of a proposition, because we've clearly asserted something which is either true or false. Every mathematical statement we make about set membership will be a proposition.
 
 ---
 
