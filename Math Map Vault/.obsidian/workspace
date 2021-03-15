@@ -6,6 +6,8 @@
       {
         "id": "b4bda881cdc48848",
         "type": "leaf",
+        "dimension": 48.44173441734417,
+        "active": true,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -16,12 +18,12 @@
       {
         "id": "197e187e07f2daf0",
         "type": "leaf",
-        "active": true,
+        "dimension": 51.55826558265583,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Logic/Propositional Logic/Biconditional.md",
-            "mode": "source"
+            "file": "Set Theory/Subsets and Supersets.md",
+            "mode": "preview"
           }
         }
       }
@@ -50,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#logic",
+                "query": "set",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Logic/Propositional Logic/Biconditional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +106,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Set Theory/Notating Membership.md",
+    "Logic/Propositional Logic/Propositions.md",
+    "Set Theory/Notating Sets and Elements.md",
+    "Logic/Propositional Logic/Propositional Closure.md",
+    "Incomplete Notes/Double Negatives.md",
+    "Propositional Expressions.md",
+    "Incomplete Notes/Negation.md",
     "Logic/Propositional Logic/Biconditional.md",
     "Logic/Propositional Logic/Conditional.md",
-    "Logic/Propositional Logic/Conjunction.md",
-    "Conditional Truth Table.md",
-    "Logic/Propositional Logic/Disjunction.md",
-    "Disjunction Truth Table.md",
-    "Conjunction Truth Table.md",
-    "Logic/Propositional Logic/Truth Tables.md",
-    "Logic/Propositional Logic/Propositional Variables.md",
-    "Logic/Propositional Logic/Logical Operators.md"
+    "Logic/Propositional Logic/Conjunction.md"
   ]
 }

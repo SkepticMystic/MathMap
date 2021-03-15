@@ -25,7 +25,7 @@ The entire proposition $P \lor Q$ is true when either $P$ **or** $Q$ are true. I
 
 ---
 
-Now, let's model the disjunction of two propositions using a truth table:
+Let's model the disjunction of two propositions using a truth table:
 
 <html>
 	<table>
