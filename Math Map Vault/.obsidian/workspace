@@ -4,26 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b4bda881cdc48848",
-        "type": "leaf",
-        "dimension": 48.44173441734417,
-        "active": true,
-        "pinned": true,
-        "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
-        }
-      },
-      {
         "id": "197e187e07f2daf0",
         "type": "leaf",
-        "dimension": 51.55826558265583,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Set Theory/Subsets and Supersets.md",
-            "mode": "preview"
+            "file": "List of Every Existing Note.md",
+            "mode": "source"
           }
         }
       }
@@ -65,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25bfce8f8fa76dd9",
@@ -82,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "List of Every Existing Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +94,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "List of Every Existing Note.md",
     "Set Theory/Notating Membership.md",
     "Logic/Propositional Logic/Propositions.md",
     "Set Theory/Notating Sets and Elements.md",
@@ -114,7 +103,6 @@
     "Propositional Expressions.md",
     "Incomplete Notes/Negation.md",
     "Logic/Propositional Logic/Biconditional.md",
-    "Logic/Propositional Logic/Conditional.md",
-    "Logic/Propositional Logic/Conjunction.md"
+    "Logic/Propositional Logic/Conditional.md"
   ]
 }

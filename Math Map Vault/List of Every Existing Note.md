@@ -9,23 +9,23 @@ list from ""
 ## Heart of Mathematics
 
 ```dataview
-list from "Math Map Vault/Heart of Mathematics"
+list from "Heart of Mathematics"
 ```
 
 ## Logic
 
 ```dataview
-list from "Math Map Vault/Logic"
+list from "Logic"
 ```
 
 ## Set Theory
 
 ```dataview
-list from "Math Map Vault/Set Theory"
+list from "Set Theory"
 ```
 
 ## Statistics
 
 ```dataview
-list from "Math Map Vault/Statistics"
+list from "Statistics"
 ```
