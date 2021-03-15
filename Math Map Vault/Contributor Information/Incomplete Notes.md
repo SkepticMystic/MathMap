@@ -14,3 +14,4 @@ These notes are either unfinished or unlinked:
 - [[Proof by Contradiction]]
 - [[Euclidian Distance]]
 - [[Complex Numbers]]
+- [[Proofs]]
