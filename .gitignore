@@ -6,3 +6,5 @@
 .obsidian/starred
 .obsidian/templates
 .obsidian/workspaces
+
+!.obsidian/plugins/dataview

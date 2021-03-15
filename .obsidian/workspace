@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Map Vault/Contributor Information/Add These.md",
+            "file": "Math Map Vault/List of Every Existing Note.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Map Vault/Contributor Information/Add These.md",
+                "file": "Math Map Vault/List of Every Existing Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math Map Vault/Contributor Information/Add These.md"
+                "file": "Math Map Vault/List of Every Existing Note.md"
               }
             }
           }
@@ -115,6 +115,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Math Map Vault/Untitled.md",
     "Math Map Vault/Contributor Information/Add These.md",
     "README.md",
     "Math Map Vault/Statistics/Untitled.md",
@@ -123,7 +124,6 @@
     "Math Map Vault/Incomplete Notes/Euclidian Distance.md",
     "Math Map Vault/Contributor Information/Incomplete Notes.md",
     "Math Map Vault/Logic/Propositional Logic/Conjunction.md",
-    "Math Map Vault/Logic/Disjunction.md",
-    "Math Map Vault/Set Theory/The Empty Set.md"
+    "Math Map Vault/Logic/Disjunction.md"
   ]
 }
