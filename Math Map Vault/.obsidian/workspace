@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Set Theory/Subsets and Supersets.md",
+            "file": "Set Theory/Notating Membership.md",
             "mode": "preview"
           }
         }
@@ -107,14 +107,14 @@
   },
   "lastOpenFiles": [
     "Set Theory/Notating Membership.md",
-    "Logic/Propositional Logic/Propositions.md",
-    "Set Theory/Notating Sets and Elements.md",
     "Logic/Propositional Logic/Propositional Closure.md",
-    "Incomplete Notes/Double Negatives.md",
-    "Propositional Expressions.md",
-    "Incomplete Notes/Negation.md",
-    "Logic/Propositional Logic/Biconditional.md",
-    "Logic/Propositional Logic/Conditional.md",
-    "Logic/Propositional Logic/Conjunction.md"
+    "Contributor Information/Incomplete Notes.md",
+    "Incomplete Notes/Proofs.md",
+    "Logic/Propositional Logic/Propositions.md",
+    "Proofs.md",
+    "Heart of Mathematics/Introduction to Mathematics.md",
+    "Logic/Disjunction.md",
+    "Logic/Propositional Logic/Disjunction.md",
+    "List of Every Existing Note.md"
   ]
 }
