@@ -15,3 +15,4 @@ These notes are either unfinished or unlinked:
 - [[Euclidian Distance]]
 - [[Complex Numbers]]
 - [[Proofs]]
+- [[Propositional Closure]]

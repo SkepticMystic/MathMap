@@ -7,7 +7,6 @@
         "id": "b4bda881cdc48848",
         "type": "leaf",
         "dimension": 48.44173441734417,
-        "active": true,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -19,10 +18,11 @@
         "id": "197e187e07f2daf0",
         "type": "leaf",
         "dimension": 51.55826558265583,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Set Theory/Notating Membership.md",
+            "file": "Contributor Information/Incomplete Notes.md",
             "mode": "preview"
           }
         }
@@ -82,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Contributor Information/Incomplete Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Set Theory/Notating Membership.md",
-    "Logic/Propositional Logic/Propositional Closure.md",
     "Contributor Information/Incomplete Notes.md",
+    "Logic/Propositional Logic/Propositional Closure.md",
+    "Incomplete Notes/Double Negatives.md",
+    "Incomplete Notes/Negation.md",
+    "Set Theory/Notating Membership.md",
     "Incomplete Notes/Proofs.md",
     "Logic/Propositional Logic/Propositions.md",
     "Proofs.md",
     "Heart of Mathematics/Introduction to Mathematics.md",
-    "Logic/Disjunction.md",
-    "Logic/Propositional Logic/Disjunction.md",
-    "List of Every Existing Note.md"
+    "Logic/Disjunction.md"
   ]
 }
