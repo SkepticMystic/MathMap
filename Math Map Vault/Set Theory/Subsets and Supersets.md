@@ -4,21 +4,10 @@
 
 ---
 
-A set $X$ is a **subset** of a set $Y$ if all elements in $X$ are also in $Y$. For example, suppose that $$X = \{a, c\}$$ $$Y = \{a, b, c, d\}$$
+Suppose that we have two sets: 
 
-All of the elements in $X$ are also contained in $Y$, so $X$ is a subset of $Y$. The subset symbol is $\subseteq$, so we would write: $$X \subseteq Y$$
-
-One way to remember this is that it's a little bit like the 'less than or equal to' symbol:
-- $\subseteq$
-- $\le$
-
-**Superset** is the term we use if we look at the situation the other way around. If a set $Y$ contains all of the elements in $X$, then we would say $Y$ is a superset of $X$. The symbol for superset is $\supseteq$, so we would write: $$Y \supseteq X$$
-
-One way to remember this is that it's a little bit like the 'greater than or equal to' symbol:
-- $\supseteq$
-- $\ge$
-
-We can represent these concepts with an Euler diagram like so:
+- $X = \{a, c\}$
+- $Y = \{a, b, c, d\}$
 
 <html>
 	<center>
@@ -37,10 +26,28 @@ We can represent these concepts with an Euler diagram like so:
 	</center>
 </html>
 
-$a$ and $c$ are contained within both $X$ and $Y$, while $b$ and $d$ are contained only within $Y$.
+We can see that $a$ and $c$ are contained within both $X$ and $Y$, while $b$ and $d$ are contained only within $Y$. In other words:
 
-- $X \subseteq Y$ because every element in $X$ is also contained within $Y$
-- $Y \supseteq X$ because $Y$ contains all elements of $X$
+- $a, c \in X$ and $a, c \in Y$
+- $b, d \in Y$
+
+Because every element in $X$ is also in $Y$ (there are no elements in $X$ that are not in $Y$), we would say that $X$ is a **subset** of $Y$. The subset symbol is $\subseteq$, so we would write: $$X \subseteq Y$$
+
+One way to remember this is that it's a little bit like the 'less than or equal to' symbol:
+- $\subseteq$
+- $\le$
+
+We can also look at the situation the other way around. Because $Y$ contains every element in $X$, we would say that $Y$ is a **superset** of $X$. The symbol for superset is $\supseteq$, so we would write: $$Y \supseteq X$$
+
+One way to remember this is that it's a little bit like the 'greater than or equal to' symbol:
+- $\supseteq$
+- $\ge$
+
+Euler diagrams like the one above are very useful for identifying subsets/supersets: if a set's circle is entirely within another set's circle, the first set must be a subset of the second set, and the second set must be a superset of the first set. This is because if the first set's circle is entirely within the second set's circle, all elements in the first set must also be in the second set.
+
+In summary: 
+- $X \subseteq Y$ means '$X$ is a subset of $Y$', which means that every element in $X$ is also contained within $Y$
+- $Y \supseteq X$ means '$Y$ is a superset of $X$', which means that $Y$ contains all elements in $X$
 
 ---
 
