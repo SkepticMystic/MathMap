@@ -29,10 +29,10 @@ We can represent these concepts with an Euler diagram like so:
 			<text x="55" y="55" fill="red">Y</text>
 			<text x="160" y="160" fill="blue">X</text>
 			
-			<text x="190" y="220" fill="white">a</text>
-			<text x="270" y="250" fill="white">c</text>
-			<text x="100" y="110" fill="white">b</text>
-			<text x="220" y="90" fill="white">d</text>
+			<text x="190" y="220" fill="purple">a</text>
+			<text x="270" y="250" fill="purple">c</text>
+			<text x="100" y="110" fill="red">b</text>
+			<text x="220" y="90" fill="red">d</text>
 		</svg>
 	</center>
 </html>
