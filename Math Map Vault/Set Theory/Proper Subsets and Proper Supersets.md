@@ -59,4 +59,4 @@ The most commonly used symbols are $\subseteq$ (normal subset) and $\subset$ (pr
 
 ---
 
-Next: [[Universe]]
+Next: 

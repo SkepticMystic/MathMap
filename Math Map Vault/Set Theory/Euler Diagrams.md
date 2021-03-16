@@ -157,4 +157,4 @@ Note that there are no yellow elements because there are no elements belonging o
 
 ---
 
-Next: [[Subsets and Supersets]]
+Next: [[Universe]]
