@@ -17,7 +17,7 @@ Using our days in the week example, if the set $D$ is the collection of all of t
 
 Note that $\in$ does not imply exclusionary membership. If I write that $Monday \in D$, it doesn't mean that there are no other elements contained within $D$. It just means that one of the elements in $D$ is 'Monday'. It's possible that 'Monday' is the only element, but we don't know whether or not that is true based only on the statement $Monday \in D$.
 
-A quick tie-in from propositional logic: $Monday \in D$ is an example of a proposition, because we've clearly asserted something which is either true or false. Every mathematical statement we make about set membership will be a proposition.
+A quick tie-in from propositional logic: $Monday \in D$ is an example of a proposition, because we've clearly asserted something which is either true or false. Every mathematical statement we make about set membership is going to assert that something is true (but our assertion could also be false), so every statement about set membership must be a proposition.
 
 ---
 
