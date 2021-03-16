@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Set Theory/Subsets and Supersets.md",
+            "file": "Nested Sets.md",
             "mode": "preview"
           }
         }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Set Theory/Subsets and Supersets.md",
+                "file": "Nested Sets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Set Theory/Subsets and Supersets.md",
-    "Universe.md",
-    "Set Theory/Membership Rules.md",
-    "Set Theory/Euler Diagrams.md",
+    "Nested Sets.md",
     "Set Theory/Proper Subsets and Proper Supersets.md",
     "Set Theory/Set Equality.md",
-    "Set Theory/Notating Membership.md",
+    "Universe.md",
+    "Set Theory/Subsets and Supersets.md",
+    "Set Theory/Relating Sets.md",
+    "Set Theory/The Empty Set.md",
     "Set Theory/Cardinality.md",
-    "Set Theory/Curly Brace Notation.md",
-    "Set Theory/Notating Non-Membership.md"
+    "Incomplete Notes/Midterm Review.md",
+    "Set Theory/Singletons.md"
   ]
 }

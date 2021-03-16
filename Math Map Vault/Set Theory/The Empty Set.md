@@ -8,4 +8,4 @@ The set with a cardinality of zero is known as the **empty set** or the **null s
 
 ---
 
-Next: [[Subsets and Supersets]]
+Next: [[Relating Sets]]

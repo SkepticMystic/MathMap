@@ -55,8 +55,8 @@ In symbols:
 - $\subset$ is like $\lt$
 - $\supset$ is like $\gt$
 
-The most commonly used symbols are $\subseteq$ (normal subset) and $\subset$ (proper subset), so if you feel overwhelmed, just focus on memorizing those two.
+Because you can always write that a set $M$ is a superset of a set $N$ by writing that $N$ is a subset of $M$, the superset and proper superset symbols aren't as prevalent as the subset and proper subset symbols. Just knowing $\subseteq$ (normal subset) and $\subset$ (proper subset) is enough to get by, so if you're feeling overwhelmed, focus on learning those.
 
 ---
 
-Next: 
+Next: [[Nested Sets]]

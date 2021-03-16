@@ -28,4 +28,4 @@ In the future, we will talk about sets with infinite cardinality, but for now, w
 
 ---
 
-Next: [[Singletons]], [[The Empty Set]], [[Relating Sets]]
+Next: [[Singletons]], [[The Empty Set]]
