@@ -46,8 +46,10 @@ One way to remember this is that it's a little bit like the 'greater than or equ
 Euler diagrams like the one above are very useful for identifying subsets/supersets: if a set's circle is entirely within another set's circle, the first set must be a subset of the second set, and the second set must be a superset of the first set. This is because if the first set's circle is entirely within the second set's circle, all elements in the first set must also be in the second set.
 
 In summary: 
-- $X \subseteq Y$ means '$X$ is a subset of $Y$', which means that every element in $X$ is also contained within $Y$
-- $Y \supseteq X$ means '$Y$ is a superset of $X$', which means that $Y$ contains all elements in $X$
+- $X \subseteq Y$ means '$X$ is a subset of $Y$'
+- $Y \supseteq X$ means '$Y$ is a superset of $X$'
+
+These two statements have identical meanings: "all elements in $X$ are also in $Y$" or "$Y$ contains all elements in $X$".
 
 ---
 

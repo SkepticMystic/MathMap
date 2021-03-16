@@ -7,7 +7,6 @@
         "id": "b4bda881cdc48848",
         "type": "leaf",
         "dimension": 48.44173441734417,
-        "active": true,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -19,10 +18,11 @@
         "id": "197e187e07f2daf0",
         "type": "leaf",
         "dimension": 51.55826558265583,
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Set Theory/Euler Diagrams.md",
+            "file": "Set Theory/Proper Subsets and Proper Supersets.md",
             "mode": "preview"
           }
         }
@@ -82,6 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Set Theory/Proper Subsets and Proper Supersets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Set Theory/Proper Subsets and Proper Supersets.md",
     "Set Theory/Subsets and Supersets.md",
+    "Set Theory/Set Equality.md",
     "Set Theory/Euler Diagrams.md",
     "Set Theory/Notating Membership.md",
     "Set Theory/Cardinality.md",
     "Set Theory/Membership Rules.md",
     "Set Theory/Curly Brace Notation.md",
     "Set Theory/Notating Non-Membership.md",
-    "Set Theory/Notating Sets and Elements.md",
-    "Set Theory/Sets, Elements, and Membership.md",
-    "Set Theory/Introduction to Set Theory.md"
+    "Set Theory/Notating Sets and Elements.md"
   ]
 }

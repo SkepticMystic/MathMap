@@ -14,7 +14,7 @@ then $A = B$.
 
 This is useful if we want to show that two sets are equal but can't do it directly by checking their elements. The reasoning is as follows:
 
-If $A$ is a subset of $B$, then that means that all elements in $A$ are contained within $B$. let's make an Euler diagram for that:
+If $A$ is a subset of $B$, then that means that all elements in $A$ are contained within $B$:
 
 <html>
 	<center>
@@ -28,7 +28,7 @@ If $A$ is a subset of $B$, then that means that all elements in $A$ are containe
 	</center>
 </html>
 
-However, we also know that every element in $B$ is also in $A$, so let's make an Euler diagram for that:
+However, if $B$ is a subset of $A$ that means that every element in $B$ is also in $A$:
 
 <html>
 	<center>
