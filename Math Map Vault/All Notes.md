@@ -1,4 +1,8 @@
-==To view the list, go into Preview Mode==
+#meta_map 
+[[Introduction to Mathematics]]
+
+---
+
 
 ```dataview
 list from ""

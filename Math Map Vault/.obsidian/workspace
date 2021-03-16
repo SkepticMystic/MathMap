@@ -22,7 +22,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contributor Information/Incomplete Notes.md",
+            "file": "Heart of Mathematics/Introduction to Mathematics.md",
             "mode": "preview"
           }
         }
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "set",
+                "query": "tag:#meta_map",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "25bfce8f8fa76dd9",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contributor Information/Incomplete Notes.md",
+                "file": "Heart of Mathematics/Introduction to Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Contributor Information/Incomplete Notes.md",
-    "Logic/Propositional Logic/Propositional Closure.md",
-    "Incomplete Notes/Double Negatives.md",
-    "Incomplete Notes/Negation.md",
-    "Set Theory/Notating Membership.md",
-    "Incomplete Notes/Proofs.md",
-    "Logic/Propositional Logic/Propositions.md",
-    "Proofs.md",
     "Heart of Mathematics/Introduction to Mathematics.md",
-    "Logic/Disjunction.md"
+    "All Notes.md",
+    "List of Every Existing Note.md",
+    "Set Theory/Proper Subsets and Proper Supersets.md",
+    "Contributor Information/Incomplete Notes.md",
+    "Contributor Information/Add These.md",
+    "Logic/Disjunction.md",
+    "Incomplete Notes/Midterm Review.md",
+    "Set Theory/Notating Membership.md",
+    "Set Theory/Notating Sets and Elements.md"
   ]
 }
