@@ -32,16 +32,29 @@ We already know that if $A$ is a subset of $B$, $B$ is a superset of $A$. Simila
 
 Looking at our Euler diagram, hopefully it's clear that for $A$ to be a proper subset of $B$ (and likewise for $B$ to be a proper superset of $A$), there must be at least one element of $B$ which is not in $A$. This is because if there are no elements in $B$ that are not in $A$, then they would be equal.
 
----
+Let's revisit our cars and vehicles example from earlier: if $C$ is the set of all cars, and $V$ is the set of all vehicles, then we already established that $C$ is a subset of $V$. But is $C$ a proper subset of $V$?
+
+<html>
+	<center>
+		<svg width="200" height="200">
+			<circle cx="100" cy="100" r="90" stroke="red" stroke-width="4" fill="none"/>
+			<circle cx="120" cy="120" r="40" stroke="blue" stroke-width="4" fill="none"/>
+			<text x="25" y="25" fill="red">V</text>
+			<text x="90" y="80" fill="blue">C</text>
+		</svg>
+	</center>
+</html>
+
+Yes it is: there are some vehicles which are not cars, and as long as there is one element in $V$ which is not in $C$, $V$ is a proper superset of $C$ (or, put another way, $C$ is a proper subset of $V$). How can we write this using symbols?
 
 The symbol for proper subset is $\subset$, and the symbol for proper superset is $\supset$.
 
-- $A \subset B$ means '$A$ is a subset of $B$'
-- $B \supset A$ means '$B$ is a superset of $A$'
+- $C \subset V$ means '$C$ is a proper subset of $V$'
+- $V \supset C$ means '$V$ is a proper superset of $C$'
 
-These two statements mean the same thing: every element in $A$ is also in $B$, but $A$ is not equal to $B$ (there is at least one element in $B$ that is not contained within $A$).
+These two statements mean the same thing: every car in $C$ is also in $V$, but $C$ is not equal to $V$ (there is at least one vehicle in $V$ that is not contained within $C$).
 
-One easy way to remember all of this is that:
+One easy way to remember all of the symbols is:
 
 - the normal subset is like "less than or equal to"
 - the normal superset is like "greater than or equal to"

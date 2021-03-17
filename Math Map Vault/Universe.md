@@ -33,7 +33,7 @@ We normally present the universe as a rectangle in our Euler diagrams:
 	</center>
 </html>
 
-However, it's normally left out unless it's relevant to the topic at hand, so you won't see it most of the time.
+However, we normally don't draw the universe in our Euler diagrams unless it's relevant to the topic at hand, so you won't see it most of the time.
 
 ---
 
