@@ -22,8 +22,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nested Sets.md",
-            "mode": "preview"
+            "file": "Propositional Constants.md",
+            "mode": "source"
           }
         }
       }
@@ -82,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nested Sets.md",
+                "file": "Propositional Constants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +107,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Propositional Constants.md",
+    "Logic/Propositional Logic/Propositional Variables.md",
+    "Logic/Propositional Logic/Propositions.md",
+    "Logic/Propositional Logic/Introduction to Propositional Logic.md",
+    "Logic/Truth Values.md",
+    "Set Operations.md",
+    "Set Theory/Nested Sets.md",
     "Nested Sets.md",
     "Set Theory/Proper Subsets and Proper Supersets.md",
-    "Set Theory/Subsets and Supersets.md",
-    "Set Theory/Set Equality.md",
-    "Universe.md",
-    "Set Theory/Euler Diagrams.md",
-    "Set Theory/Membership Rules.md",
-    "Incomplete Notes/Double Negatives.md",
-    "Set Theory/Relating Sets.md",
-    "Set Theory/The Empty Set.md"
+    "Set Theory/Subsets and Supersets.md"
   ]
 }
