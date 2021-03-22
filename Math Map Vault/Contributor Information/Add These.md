@@ -4,27 +4,15 @@
 
 ---
 
-## Fundamentals 1:
+## Basics:
 
-Counting
-Place Value (1s, 10s, and 100s)
-Addition/Subtraction within 1000
-Multiplication within 100
-Whole Number Place Values
-Division/Fractions
-Equivalent Fractions
-Comparing Fractions
-Division within 100
-Factors and Multiples
-Proper/Improper Fractions
-Mixed Numbers
-Add/Subtract/Multiply Fractions
-Decimal Place Value
-Adding/Subtracting Decimals
-Divide Fractions
-Multiply/Divide Decimals
-Additive/Multiplicative Identity
-Additive/Multiplicative Inverses
+Numbers
+Mathematical Operations on Numbers
+Shapes and Patterns
+Time
+Money
+Measurements
+Data
 
 ## Fundamentals 2:
 
@@ -77,8 +65,8 @@ Sequences:
 
 Combinatorics:
 
-- [[Permutations]]
-- [[Combinations]]
+- Permutations
+- Combinations
 
 Set Operations:
 
@@ -354,17 +342,17 @@ Systems of Equations
 
 ### Measures
 
-[[Mean]]
-[[Median]]
-[[Mode]]
-[[Standard Deviation]]
-[[Variance]]
+Mean
+Median
+Mode
+Standard Deviation
+Variance
 
 ### Probability
 
 Probability
-[[Permutations]]
-[[Combinations]]
+Permutations
+Combinations
 
 ## Misc Notes
 

@@ -27,4 +27,4 @@ Having all of these notations can be confusing, so here's what they all mean in 
 
 ---
 
-Next: [[Curly Brace Notation]]
+Next: [[Roster Notation]]
