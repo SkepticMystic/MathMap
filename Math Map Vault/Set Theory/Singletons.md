@@ -9,4 +9,6 @@
 - $B$ = \{Beethoven's Fifth Symphony\}
 - $C$ = $\{17\}$
 
+Keep in mind that although a singleton has only one element, it is still a collection and is not the same as the element contained within it. So $\{a\}$ is not the same as $a$.
+
 ---
