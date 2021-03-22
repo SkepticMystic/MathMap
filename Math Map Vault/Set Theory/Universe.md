@@ -33,8 +33,8 @@ We normally present the universe as a rectangle in our Euler diagrams:
 	</center>
 </html>
 
-However, we normally don't draw the universe in our Euler diagrams unless it's relevant to the topic at hand, so you won't see it most of the time.
+However, we don't usually draw the universe in our Euler diagrams (unless it's relevant to the topic at hand), so you won't see it most of the time.
 
 ---
 
-Next: [[Subsets and Supersets]]
+Next: [[Relating Sets]]
