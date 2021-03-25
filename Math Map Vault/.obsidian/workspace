@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "b4bda881cdc48848",
+        "id": "99b24124af39b435",
         "type": "leaf",
-        "dimension": 48.44173441734417,
-        "pinned": true,
         "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "Contributor Information/Add These.md",
+            "mode": "source"
+          }
         }
       },
       {
-        "id": "197e187e07f2daf0",
+        "id": "089a283e8093b9af",
         "type": "leaf",
-        "dimension": 51.55826558265583,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mode.md",
+            "mode": "source"
+          }
+        },
+        "group": "9ff5e594f67b3cc7"
+      },
+      {
+        "id": "eb936257b6278e2f",
+        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Propositional Constants.md",
-            "mode": "source"
+            "file": "Mode.md",
+            "mode": "preview"
           }
-        }
+        },
+        "group": "9ff5e594f67b3cc7"
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propositional Constants.md",
+                "file": "Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +119,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Propositional Constants.md",
-    "Logic/Propositional Logic/Propositional Variables.md",
-    "Logic/Propositional Logic/Propositions.md",
-    "Logic/Propositional Logic/Introduction to Propositional Logic.md",
-    "Logic/Truth Values.md",
-    "Set Operations.md",
-    "Set Theory/Nested Sets.md",
-    "Nested Sets.md",
-    "Set Theory/Proper Subsets and Proper Supersets.md",
-    "Set Theory/Subsets and Supersets.md"
+    "Mode.md",
+    "Contributor Information/Add These.md",
+    "Median.md",
+    "Mean.md",
+    "Road Map.md",
+    "All Notes.md",
+    "Set Theory/Roster Notation.md",
+    "Contributor Information/Vision Statement.md",
+    "Set Theory/Universe.md",
+    "Propositional Constants.md"
   ]
 }

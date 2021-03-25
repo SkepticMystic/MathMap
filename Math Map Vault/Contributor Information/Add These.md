@@ -342,11 +342,11 @@ Systems of Equations
 
 ### Measures
 
-Mean
-Median
-Mode
-Standard Deviation
-Variance
+[[Mean]]
+[[Median]]
+[[Mode]]
+[[Standard Deviation]]
+[[Variance]]
 
 ### Probability
 
