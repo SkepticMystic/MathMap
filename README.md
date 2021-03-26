@@ -2,8 +2,6 @@
 
 ## Vision Statement
 
----
-
 The goal of this project is to create a self-contained resource which allows anybody, **regardless of prior mathematical knowledge, ability, or maturity**, to learn any mathematical topic they want. This resource will take the form of a detailed "map" of all of K-12 and undergraduate mathematics, along with some graduate-level mathematics.
 
 This map will consist of "notes" arranged into "sequences"; each sequence aims to be a self-contained explanation of a topic, and each note aims to be an intuitive explanation of a single concept/skill.
@@ -35,8 +33,6 @@ From a practical standpoint, this means that **each "sequence" of notes should b
 The goal is that the math map presents a well-curated progression of topics from the very beginnings of mathematics all the way to its extremities. A person with no math knowledge should be able to read through it, understanding everything. That way it can be used by teachers in school classrooms, homeschooling parents in their living rooms, and self-learning students in their basements; it can be useful to anyone, regardless of where they are in their math education.
 
 Our plan is to have completed all of K-12 and undergraduate mathematics by Jan 1, 2025. You can check out the road map for more information.
-
----
 
 ## Viewing the Map
 
