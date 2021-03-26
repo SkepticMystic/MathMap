@@ -40,18 +40,16 @@ We are using [Obsidian](https://obsidian.md/), a Markdown viewer, to create the 
 
 ## Intended Use
 
-This map of mathematics is intended for use by three groups: students, guardians, and teachers. We try to make the explanations as simple as possible and the notes (what we call each 'topic', being either a concept, skill, or other useful piece of knowledge) as atomized as possible. That being said, some students, particularly younger ones, will probably benefit the most from having a guardian or teacher explain the subject to them.
-
-## Contribution
-
-First off, the biggest contribution you can make is spreading the word about the project. If you want to contribute but don't want to use GitHub, you can view the map as described in the section above, and DM me in [Discord](https://discord.gg/dvW2HzBCMG) with any suggestions. If you want to contribute directly to the project, [fork](https://guides.github.com/activities/forking/) this GitHub repository to your account, then clone it to your hard drive. If you have the GitHub Desktop client, you'll most likely find the vault file (called "Math Map Vault") in your "GitHub" folder. Then, open [Obsidian](https://obsidian.md/) (after downloading it) and select "Open Folder as Vault". Then select the "Math Map Vault" folder from earlier. Now you can make edits, and using your GitHub desktop client push them to the main branch of the project for review.
+This map of mathematics is intended for use by three groups: students, guardians, and teachers. We try to make the overall layout as well as the explanations as simple and intuitive as possible; that being said, some students, particularly younger ones, will probably benefit the most from having a guardian or teacher explain the concepts to them.
 
 Specific instructions for how you can contribute are located in the vault itself.
+
+## Contact and Contribution
+
+If you're interested in contributing to the project or have any questions, you can join our Discord server [here](https://discord.gg/dvW2HzBCMG). 
+
+The biggest contribution you can make is spreading the word about the project. If you want to contribute but don't want to use GitHub, you can view the map as described in the section above, and message me in [Discord](https://discord.gg/dvW2HzBCMG) with any suggestions. If you want to contribute directly to the project, [fork](https://guides.github.com/activities/forking/) this GitHub repository to your account, then clone it to your hard drive. If you have the GitHub Desktop client, you'll most likely find the vault file (called "Math Map Vault") in your "GitHub" folder. Then, open [Obsidian](https://obsidian.md/) (after downloading it) and select "Open Folder as Vault". Then select the "Math Map Vault" folder from earlier. Now you can make edits and, using your GitHub desktop client, push them to the main branch of the project for review. 
 
 ## Future Plans
 
 We are planning on using Obsidian Publish to put the map out on the internet as soon as we have an acceptable minimum of content. If at some point we are able to create our own website which is tailored to our more specific custom needs, we'll do that, but for now the focus is on aggregating and then spreading knowledge about mathematics.
-
-## Contact
-
-If you're interested in contributing to the project or have any questions, you can join our Discord server [here](https://discord.gg/dvW2HzBCMG).
