@@ -18,7 +18,7 @@ If we're being honest, math education in schools today is somewhat disastrous. M
 
 Painting or music might not be strictly "useful" in the sense that they don't directly produce any physical utility for the average person, but they make life a little more interesting and give people something fun to do in their spare time. There's no reason that math should be any different: math should be a fun hobby people can choose to do in their spare time because it enriches their lives and maybe makes the world a little more beautiful. And math has the added bonus that it can be *extremely* useful, so not only do we give people a fun hobby but we also end up educating our population, which will help us advance faster as a species overall.
 
-**Hence, we don't want to recreate any already-existing school mathematics curriculum**: we are attempting to make something new that allows people to learn math more efficiently and understand it at a deeper level. So although this curriculum won't match up perfectly with the ones commonly used in schools, it will hopefully give students more of an opportunity to view math as a fun subject for them to explore, rather than a set of skills they're supposed to use out in the "real world".
+**Hence, we don't want to recreate any already-existing school mathematics curriculum**: we are attempting to make something new that allows people to learn math more efficiently and understand it at a deeper level. So although this curriculum won't match up perfectly with the ones commonly used in schools, it will hopefully give students more of an opportunity to view math as a fun subject to explore, rather than a set of skills they're supposed to use out in the "real world".
 
 ---
 
