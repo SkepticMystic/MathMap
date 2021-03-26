@@ -4,7 +4,8 @@
 
 ---
 
-- [[Basic Arithmetic]] Sequence
+- [[Basic Counting and Arithmetic]]
+- [[Intermediate Arithmetic]]
 - [[Basic Geometry]] Sequence
 - [[Basic Naive Set Theory]] Sequence
 - [[Basic Propositional Logic]] Sequence
