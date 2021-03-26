@@ -46,7 +46,7 @@ Specific instructions for how you can contribute are located in the vault itself
 
 ## Contact and Contribution
 
-If you're interested in contributing to the project or have any questions, you can join our Discord server [here](https://discord.gg/dvW2HzBCMG). 
+If you're interested in contributing to the project or have any questions, you can join our [Discord server](https://discord.gg/dvW2HzBCMG). 
 
 The biggest contribution you can make is spreading the word about the project. If you want to contribute but don't want to use GitHub, you can view the map as described in the section above, and message me in [Discord](https://discord.gg/dvW2HzBCMG) with any suggestions. If you want to contribute directly to the project, [fork](https://guides.github.com/activities/forking/) this GitHub repository to your account, then clone it to your hard drive. If you have the GitHub Desktop client, you'll most likely find the vault file (called "Math Map Vault") in your "GitHub" folder. Then, open [Obsidian](https://obsidian.md/) (after downloading it) and select "Open Folder as Vault". Then select the "Math Map Vault" folder from earlier. Now you can make edits and, using your GitHub desktop client, push them to the main branch of the project for review. 
 
