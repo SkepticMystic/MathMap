@@ -19,3 +19,5 @@ You can think of it as "pairs of negatives cancel each other out". This is usefu
 In other words, "not not not $P$" is equivalent to saying "not $P$".
 
 ---
+
+Next: [[Propositional Closure]]
