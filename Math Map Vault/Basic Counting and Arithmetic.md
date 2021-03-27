@@ -14,6 +14,7 @@
 		- Finding Greatest/Least Number
 	- Elementary Arithmetic
 		- Finding Sums
+			- Commutativity
 		- Finding Differences
 		- Decomposing Numbers into Sums
 			- Base 3
@@ -39,6 +40,7 @@
 		- Finding Greatest/Least Number
 		- Decomposing Numbers into Base 10 Sums
 		- Counting by 1s, 2s, 3s, 4s, etc
+	- Additive Identity
 	- Double Digit Sums
 		- Single and Single
 		- Double and Single
@@ -47,4 +49,21 @@
 		- Single and Single
 		- Double and Single
 		- Double and Double
+
+- Counting to 1000
+	-   Greater Than/Less Than/Equal To (with <, \>, \=, ≤, ≥)
+    -   Ordering Sets of Numbers
+    -   Finding Greatest/Least Number
+    -   Decomposing Numbers into Base 10 Sums
+	-   Counting by 1s, 2s, 3s, 4s, etc
+	- Triple Digit Sums
+		- Single and Triple
+		- Double and Triple
+		- Triple and Triple
+		- Algorithm
+	- Triple Digit Differences
+		- Single and Triple
+		- Double and Triple
+		- Triple and Triple
+		- Algorithm
 ---

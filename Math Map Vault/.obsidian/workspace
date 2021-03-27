@@ -4,9 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "b4bda881cdc48848",
+        "id": "f97de856cef6ba9d",
         "type": "leaf",
-        "dimension": 48.44173441734417,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -15,15 +14,14 @@
         }
       },
       {
-        "id": "197e187e07f2daf0",
+        "id": "0ca9e50437141033",
         "type": "leaf",
-        "dimension": 51.55826558265583,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Propositional Constants.md",
-            "mode": "source"
+            "file": "Intermediate Arithmetic.md",
+            "mode": "preview"
           }
         }
       }
@@ -82,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Propositional Constants.md",
+                "file": "Intermediate Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Propositional Constants.md",
-    "Logic/Propositional Logic/Propositional Variables.md",
-    "Logic/Propositional Logic/Propositions.md",
-    "Logic/Propositional Logic/Introduction to Propositional Logic.md",
-    "Logic/Truth Values.md",
-    "Set Operations.md",
-    "Set Theory/Nested Sets.md",
-    "Nested Sets.md",
-    "Set Theory/Proper Subsets and Proper Supersets.md",
-    "Set Theory/Subsets and Supersets.md"
+    "Intermediate Arithmetic.md",
+    "Basic Counting and Arithmetic.md",
+    "Road Map.md",
+    "Abstract Algebra.md",
+    "Contributor Information/Incomplete Notes.md",
+    "Basic Naive Set Theory.md",
+    "Contributor Information/Add These.md",
+    "Contributor Information/Vision Statement.md",
+    "Contributor Information/CONTRIBUTOR HUB.md",
+    "Contributor Information/Sample Note.md"
   ]
 }
