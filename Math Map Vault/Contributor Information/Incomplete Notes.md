@@ -19,3 +19,4 @@ These notes are either unfinished or unlinked:
 - [[Abstract Algebra]]
 - [[Mode]]
 - [[Mean]]
+- [[Median]]

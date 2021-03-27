@@ -6,23 +6,23 @@
       {
         "id": "0ca9e50437141033",
         "type": "leaf",
-        "pinned": true,
+        "active": true,
         "state": {
-          "type": "graph",
-          "state": {},
-          "pinned": true
+          "type": "markdown",
+          "state": {
+            "file": "Contributor Information/Road Map/Intermediate Arithmetic.md",
+            "mode": "preview"
+          }
         }
       },
       {
         "id": "22d43721934afc76",
         "type": "leaf",
-        "active": true,
+        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Incomplete Notes/Mean.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {},
+          "pinned": true
         }
       }
     ],
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Incomplete Notes/Mean.md",
+                "file": "Contributor Information/Road Map/Intermediate Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Mean.md",
+    "Contributor Information/Road Map/Intermediate Arithmetic.md",
+    "Contributor Information/Road Map/Basic Geometry.md",
+    "Incomplete Notes/Mode.md",
     "Contributor Information/Incomplete Notes.md",
     "Incomplete Notes/Mean.md",
-    "Incomplete Notes/Mode.md",
+    "Median.md",
+    "Incomplete Notes/Median.md",
+    "Mean.md",
     "Contributor Information/Road Map/Road Map.md",
-    "Contributor Information/Road Map/Basic Geometry.md",
-    "Contributor Information/Road Map/Intermediate Arithmetic.md",
-    "Contributor Information/Add These.md",
-    "Road Map.md",
-    "Intermediate Arithmetic.md"
+    "Contributor Information/Add These.md"
   ]
 }
