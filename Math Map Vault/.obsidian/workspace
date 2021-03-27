@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f97de856cef6ba9d",
+        "id": "0ca9e50437141033",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -14,13 +14,13 @@
         }
       },
       {
-        "id": "0ca9e50437141033",
+        "id": "22d43721934afc76",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contributor Information/CONTRIBUTOR HUB.md",
+            "file": "Statistics and Probability.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contributor Information/CONTRIBUTOR HUB.md",
+                "file": "Statistics and Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Statistics and Probability.md",
+    "Contributor Information/Add These.md",
+    "Probability.md",
+    "Basic Counting and Arithmetic.md",
+    "Contributor Information/Incomplete Notes.md",
     "Contributor Information/CONTRIBUTOR HUB.md",
     "Untitled.md",
-    "Contributor Information/Add These.md",
     "Standard Deviation.md",
     "Mode.md",
-    "Intermediate Arithmetic.md",
-    "Basic Counting and Arithmetic.md",
-    "Road Map.md",
-    "Abstract Algebra.md",
-    "Contributor Information/Incomplete Notes.md"
+    "Intermediate Arithmetic.md"
   ]
 }
