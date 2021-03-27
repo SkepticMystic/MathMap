@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f97de856cef6ba9d",
+        "id": "0ca9e50437141033",
         "type": "leaf",
         "pinned": true,
         "state": {
@@ -14,14 +14,14 @@
         }
       },
       {
-        "id": "0ca9e50437141033",
+        "id": "22d43721934afc76",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Intermediate Arithmetic.md",
-            "mode": "preview"
+            "file": "Contributor Information/Add These.md",
+            "mode": "source"
           }
         }
       }
@@ -63,8 +63,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "25bfce8f8fa76dd9",
@@ -80,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Intermediate Arithmetic.md",
+                "file": "Contributor Information/Add These.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Intermediate Arithmetic.md",
-    "Basic Counting and Arithmetic.md",
-    "Road Map.md",
-    "Abstract Algebra.md",
-    "Contributor Information/Incomplete Notes.md",
-    "Basic Naive Set Theory.md",
     "Contributor Information/Add These.md",
-    "Contributor Information/Vision Statement.md",
-    "Contributor Information/CONTRIBUTOR HUB.md",
-    "Contributor Information/Sample Note.md"
+    "Road Map.md",
+    "Intermediate Arithmetic.md",
+    "Incomplete Notes/Point-Set Topology.md",
+    "Set Theory/Set Operations.md",
+    "Contributor Information/Road Map.md",
+    "Statistics and Probability.md",
+    "Set Operations.md",
+    "Point-Set Topology.md",
+    "Pasted image 20210326112628.png"
   ]
 }
