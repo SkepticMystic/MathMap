@@ -20,8 +20,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contributor Information/Add These.md",
-            "mode": "source"
+            "file": "Incomplete Notes/Mode.md",
+            "mode": "preview"
           }
         }
       }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contributor Information/Add These.md",
+                "file": "Incomplete Notes/Mode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Mean.md",
+    "Contributor Information/Incomplete Notes.md",
+    "Incomplete Notes/Mode.md",
+    "Contributor Information/Road Map/Road Map.md",
+    "Contributor Information/Road Map/Basic Geometry.md",
+    "Contributor Information/Road Map/Intermediate Arithmetic.md",
     "Contributor Information/Add These.md",
     "Road Map.md",
     "Intermediate Arithmetic.md",
-    "Incomplete Notes/Point-Set Topology.md",
-    "Set Theory/Set Operations.md",
-    "Contributor Information/Road Map.md",
-    "Statistics and Probability.md",
-    "Set Operations.md",
-    "Point-Set Topology.md",
-    "Pasted image 20210326112628.png"
+    "Incomplete Notes/Point-Set Topology.md"
   ]
 }

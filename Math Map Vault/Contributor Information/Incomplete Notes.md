@@ -17,3 +17,5 @@ These notes are either unfinished or unlinked:
 - [[Proofs]]
 - [[Point-Set Topology]]
 - [[Abstract Algebra]]
+
+[[Mode]]
