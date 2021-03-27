@@ -6,6 +6,7 @@
       {
         "id": "0ca9e50437141033",
         "type": "leaf",
+        "active": true,
         "pinned": true,
         "state": {
           "type": "graph",
@@ -16,11 +17,10 @@
       {
         "id": "22d43721934afc76",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Statistics and Probability.md",
+            "file": "Contributor Information/Roadmap/Road Map.md",
             "mode": "source"
           }
         }
@@ -80,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Statistics and Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,15 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Contributor Information/Road Map.md",
     "Statistics and Probability.md",
+    "Set Operations.md",
+    "Point-Set Topology.md",
+    "Pasted image 20210326112628.png",
+    "Pasted image 20210323132125.png",
     "Contributor Information/Add These.md",
     "Probability.md",
     "Basic Counting and Arithmetic.md",
-    "Contributor Information/Incomplete Notes.md",
-    "Contributor Information/CONTRIBUTOR HUB.md",
-    "Untitled.md",
-    "Standard Deviation.md",
-    "Mode.md",
-    "Intermediate Arithmetic.md"
+    "Contributor Information/Incomplete Notes.md"
   ]
 }
