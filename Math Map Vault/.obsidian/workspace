@@ -20,7 +20,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Incomplete Notes/Mode.md",
+            "file": "Incomplete Notes/Mean.md",
             "mode": "preview"
           }
         }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Incomplete Notes/Mode.md",
+                "file": "Incomplete Notes/Mean.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,13 +106,13 @@
   "lastOpenFiles": [
     "Mean.md",
     "Contributor Information/Incomplete Notes.md",
+    "Incomplete Notes/Mean.md",
     "Incomplete Notes/Mode.md",
     "Contributor Information/Road Map/Road Map.md",
     "Contributor Information/Road Map/Basic Geometry.md",
     "Contributor Information/Road Map/Intermediate Arithmetic.md",
     "Contributor Information/Add These.md",
     "Road Map.md",
-    "Intermediate Arithmetic.md",
-    "Incomplete Notes/Point-Set Topology.md"
+    "Intermediate Arithmetic.md"
   ]
 }
