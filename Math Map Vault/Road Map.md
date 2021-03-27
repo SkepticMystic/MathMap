@@ -4,10 +4,13 @@
 
 ---
 
-- [[Basic Arithmetic]] Sequence
-- [[Basic Geometry]] Sequence
-- [[Basic Naive Set Theory]] Sequence
-- [[Basic Propositional Logic]] Sequence
+You can place links to planning notes for new sequences here.
+
+- [[Basic Counting and Arithmetic]]
+- [[Intermediate Arithmetic]]
+- [[Basic Geometry]]
+- [[Basic Naive Set Theory]]
+- [[Basic Propositional Logic]]
 - History of Mathematics Note in Introduction Sequence
 - 
 

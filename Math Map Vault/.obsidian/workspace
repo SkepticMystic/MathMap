@@ -4,40 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "99b24124af39b435",
+        "id": "f97de856cef6ba9d",
         "type": "leaf",
+        "pinned": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Contributor Information/Add These.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {},
+          "pinned": true
         }
       },
       {
-        "id": "089a283e8093b9af",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Mode.md",
-            "mode": "source"
-          }
-        },
-        "group": "9ff5e594f67b3cc7"
-      },
-      {
-        "id": "eb936257b6278e2f",
+        "id": "0ca9e50437141033",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mode.md",
-            "mode": "preview"
+            "file": "Contributor Information/CONTRIBUTOR HUB.md",
+            "mode": "source"
           }
-        },
-        "group": "9ff5e594f67b3cc7"
+        }
       }
     ],
     "direction": "vertical"
@@ -94,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mode.md",
+                "file": "Contributor Information/CONTRIBUTOR HUB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,15 +105,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Mode.md",
+    "Contributor Information/CONTRIBUTOR HUB.md",
+    "Untitled.md",
     "Contributor Information/Add These.md",
-    "Median.md",
-    "Mean.md",
+    "Standard Deviation.md",
+    "Mode.md",
+    "Intermediate Arithmetic.md",
+    "Basic Counting and Arithmetic.md",
     "Road Map.md",
-    "All Notes.md",
-    "Set Theory/Roster Notation.md",
-    "Contributor Information/Vision Statement.md",
-    "Set Theory/Universe.md",
-    "Propositional Constants.md"
+    "Abstract Algebra.md",
+    "Contributor Information/Incomplete Notes.md"
   ]
 }
